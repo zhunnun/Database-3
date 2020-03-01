@@ -1,0 +1,518 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=latex 2019.7.3)  3 JUL 2019 19:12
+entering extended mode
+**"./analisis proses bisnis ktp.tex"
+("analisis proses bisnis ktp.tex"
+LaTeX2e <2018-12-01>
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\dvips.
+def"
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+
+LaTeX Warning: Unused global option(s):
+    [bahasa].
+
+("analisis proses bisnis ktp.aux")
+\openout1 = `"analisis proses bisnis ktp.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 8.
+
+
+LaTeX Warning: No \author given.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Overfull \hbox (1.98482pt too wide) in paragraph at lines 16--17
+[]\OT1/cmr/m/n/12 Kelurahan men-da-pat pem-ber-i-tahuan bahwa war-ganya di-wa-j
+ibkan mem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+[1
+
+]
+
+! LaTeX Error: Cannot determine size of graphic in gambar/Rt.jpeg (no BoundingB
+ox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \includegraphics[scale=1.0]{gambar/Rt.jpeg}
+                                                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/Rt.jpeg Graphic file (type eps)
+<gambar/Rt.jpeg>
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 65.
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+
+[2]
+
+! LaTeX Error: Cannot determine size of graphic in gambar/Kelurahan.jpeg (no Bo
+undingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 ...graphics[scale=1.0]{gambar/Kelurahan.jpeg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/Kelurahan.jpeg Graphic file (type eps)
+<gambar/Kelurahan.jpeg>
+
+! LaTeX Error: Cannot determine size of graphic in gambar/Kecamatan.jpeg (no Bo
+undingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...graphics[scale=1.0]{gambar/Kecamatan.jpeg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/Kecamatan.jpeg Graphic file (type eps)
+<gambar/Kecamatan.jpeg>
+
+! LaTeX Error: Cannot determine size of graphic in gambar/Kota.jpeg (no Boundin
+gBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 ...ludegraphics[scale=1.0]{gambar/Kota.jpeg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/Kota.jpeg Graphic file (type eps)
+<gambar/Kota.jpeg> [3]
+
+! LaTeX Error: Cannot determine size of graphic in gambar/Provinsi.jpeg (no Bou
+ndingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 ...graphics[scale=1.0]{gambar/Provinsi.jpeg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/Provinsi.jpeg Graphic file (type eps)
+<gambar/Provinsi.jpeg>
+Underfull \hbox (badness 10000) in paragraph at lines 115--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--135
+
+ []
+
+
+! LaTeX Error: Cannot determine size of graphic in gambar/Kewarganegaraan.png (
+no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 ...cs[scale=0.8]{gambar/Kewarganegaraan.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/Kewarganegaraan.png Graphic file (type eps)
+<gambar/Kewarganegaraan.png> [4]
+
+! LaTeX Error: Cannot determine size of graphic in gambar/Pekerjaan.jpeg (no Bo
+undingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.151 ...raphics[scale=1.0]{gambar/Pekerjaan.jpeg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/Pekerjaan.jpeg Graphic file (type eps)
+<gambar/Pekerjaan.jpeg>
+
+! LaTeX Error: Cannot determine size of graphic in gambar/Perkawinan.jpeg (no B
+oundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.164 ...aphics[scale=1.0]{gambar/Perkawinan.jpeg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/Perkawinan.jpeg Graphic file (type eps)
+<gambar/Perkawinan.jpeg>
+Underfull \hbox (badness 10000) in paragraph at lines 161--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--175
+
+ []
+
+[5]
+
+! LaTeX Error: Cannot determine size of graphic in gambar/Agama.jpeg (no Boundi
+ngBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178 ...udegraphics[scale=1.0]{gambar/Agama.jpeg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/Agama.jpeg Graphic file (type eps)
+<gambar/Agama.jpeg>
+
+! LaTeX Error: Cannot determine size of graphic in gambar/JenisKelamin.jpeg (no
+ BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.191 ...hics[scale=1.0]{gambar/JenisKelamin.jpeg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/JenisKelamin.jpeg Graphic file (type eps)
+<gambar/JenisKelamin.jpeg>
+
+! LaTeX Error: Cannot determine size of graphic in gambar/Goldar.jpeg (no Bound
+ingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.204 ...degraphics[scale=1.0]{gambar/Goldar.jpeg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/Goldar.jpeg Graphic file (type eps)
+<gambar/Goldar.jpeg>
+Underfull \hbox (badness 10000) in paragraph at lines 201--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--215
+
+ []
+
+
+! LaTeX Error: Cannot determine size of graphic in gambar/Pengesahan.jpeg (no B
+oundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218 ...aphics[scale=1.0]{gambar/Pengesahan.jpeg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/Pengesahan.jpeg Graphic file (type eps)
+<gambar/Pengesahan.jpeg> [6]
+
+! LaTeX Error: Cannot determine size of graphic in gambar/Penduduk.jpeg (no Bou
+ndingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.229 ...graphics[scale=0.8]{gambar/Penduduk.jpeg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/Penduduk.jpeg Graphic file (type eps)
+<gambar/Penduduk.jpeg>
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+[7]
+
+! LaTeX Error: Cannot determine size of graphic in gambar/Pdm.png (no BoundingB
+ox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 \includegraphics[scale=0.8]{gambar/Pdm.png}
+                                                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/Pdm.png Graphic file (type eps)
+<gambar/Pdm.png>
+Overfull \hbox (9.55698pt too wide) in paragraph at lines 277--279
+[]\OT1/cmr/m/n/12 Relasi an-tara tabel pen-duduk den-gan go-lon-gan darah (one-
+many) Banyak
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--292
+
+ []
+
+
+! LaTeX Error: Cannot determine size of graphic in gambar/Cdm.png (no BoundingB
+ox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.297 \includegraphics[scale=0.8]{gambar/Cdm.png}
+                                                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: gambar/Cdm.png Graphic file (type eps)
+<gambar/Cdm.png> [9] ("analisis proses bisnis ktp.aux")
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 635 strings out of 492946
+ 8546 string characters out of 3126723
+ 68809 words of memory out of 3000000
+ 4573 multiletter control sequences out of 15000+200000
+ 6061 words of font info for 22 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,6n,22p,1138b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on "analisis proses bisnis ktp.dvi" (9 pages, 11360 bytes).

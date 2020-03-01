@@ -1,0 +1,91 @@
+\documentclass{article}
+\usepackage{graphicx}
+\graphicspath{ {./gambar/} }
+
+\title{Databas II: Laporan Seminar Online}
+\author{Chevin Febrianta Ginting\\1184027 }
+\date{October 2019}
+
+\begin{document}
+
+\maketitle
+
+\section{Oracle Apex}
+Oracle apex adalah platform low-code development yang memungkinkan untuk membangun aplikasi perusahaan yang dapat diskalakan dan aman dengan fitu kelas dunia yang dapat digunakan dimana saja.leverge sql dan kapabilitas.\\
+
+\begin{enumerate}
+\item \textbf{Apa Kode Rendah?}
+\begin{itemize}
+\item Mudah dijalankan
+\item Sangat Produktif
+\item Scalable
+\item Dapat Diperpanjang
+\item Fungsionalitas Yang Kaya Dengan Kode Yang Lebih Sedikit.\\
+\end{itemize}
+\item \textbf{Pengembangan Aplikasi Di Perusahaan}
+\begin{itemize}
+\item  Membutuhkan Sumber Daya Pengembangan Khusus Dan Mahal
+\item Panjang Siklus Dev Aplikasi
+\item Backlog Yang Besar
+\item Kolaborasi Minimal
+\item Bisnis Menyelesaikan Masalah Dengan Alat Yang Salah
+\item Oracle Apex: Kembangkan Basis Data, Mengembangkan Aplikasi, dan Menyebarkan\\
+
+\end{itemize}
+
+\item \textbf{Cara Membuat Database Baru}
+\begin{itemize}
+\item New
+\item Wizard
+\item Blueprint
+
+\end{itemize}
+\item \textbf{Cara Pengembangan Aplikasi}
+\begin{itemize}
+\item  New
+\item Markdown
+\item Model
+\item Sql Ide
+\item Dml Script
+\item Excel\\
+
+\end{itemize}
+
+\item \textbf{Gambaran Umum}\\Lab Ini Menuntun Anda Saat Mengunggah Spreadsheet Ke Tabel Database Oracle, Lalu Membuat Aplikasi Berdasarkan Tabel Baru Ini. Anda Kemudian Akan Bermain Dengan Laporan Interaktif Dan Meningkatkan Formulir Terlampir. Terakhir, Anda Akan Menambahkan Halaman Kalender Dan Kemudian Menautkannya Ke Halaman Formulir Yang Ada. Alih-Alih Mencoba Mengirim Surel Spreadsheet Untuk Mengumpulkan Informasi Dari Orang Yang Berbeda, Cukup Buat Aplikasi Dalam Hitungan Menit, Dan Kirim Surel URL. Spreadsheet Sumber-Kebenaran-Tunggal, Multi-Pengguna, Aman, Dan Mudah Tersiram Ini! Aplikasi Scren Jadi Lebih Baik.\\
+\item \textbf{Pengertian Spreadsheet}
+Spreadsheet: Memungkinkan Pengguna Untuk Menyimpan Berbagai Informasi Yang Sangat Lengkap, Pada Setiap Kolomnya Bisa Menyimpan Berbagai Data Informasi Yang Berbeda Dari Informasi Yang Di Perlukan.App From Spreadsheet Disini Berupa Beberapa Project Dan Nama Tugas Nya Serta Keterangan Lainnya Seperti Tanggal Mulai, Tanggal Selesai, Status, Di Ttd Oleh,Biaya, Budget Tersedia, Dan Lebih Kurangnya Dari Budget.\\
+
+\item \textbf{Oracle Apex Membedakan Karakteristik}
+\begin{itemize}
+\item Pengembangan aplikasi IDE adalah browser web, tidak perlu perangkat lunak klien.
+\item definisi aplikasi disimpan dalam database sebagai data meta
+\item pembuatan kode
+\item pembuatan halaman efisien dengan hanya satu permintaan dan satu respons
+\item pemrosesan data dilakukan dalam database.
+\end{itemize}
+
+\item \textbf{Restrict/memabatasi status}
+\begin{itemize}
+\item Untuk memilih tipe Select List ada pada halaman designer dalam property editor dan klik kanan terlebih dahulu
+\item Lalu Memilih tipe SQL Query pada list of values dan klik code editor
+\item Ketik tulisan berikut ini di dalam code editor: select distinct status d, status r from spreadsheet order by 1
+\item Lalu klik validate dan oke jika selesai.
+\item Pilih No pada Display Extra Values dan ketik -Select Status- pada Null Value Display
+\item Setelah itu klik simpan\\
+\end{itemize}
+\item \textbf{Menjalankan Aplikasi}\\Untuk menjalankan aplikasi, arahkan lagi ke runtime environment, lalu refresh browser yang digunakan, dan edit record. Klik status dan ubah menjadi closed.\\
+
+\item  \textbf{Menambahkan Kalender}
+\begin{itemize}
+\item  Untuk menambahkan kalender, balik lagi ke runtime environment.
+\item Pada halaman App Builder, arahkan ke halaman utama, dan klik create page untuk membuat halaman.
+\item Pilih calender dan isi atribut halaman
+\item Selanjutnya pilih create a new navigation menu entry
+\item Pada menu source, pilih table name SPREADSHEET.
+\item Di setting, pilih TASKNAME pada atribut Display Column dan pilih ENDDATE pada atribut End Date Column. Lalu klik Create.\\
+\end{itemize}
+
+
+
+\end{enumerate}
+\end{document}

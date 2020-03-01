@@ -1,0 +1,288 @@
+\documentclass{article}
+\begin{document}
+\title{Laporan Database}
+\author{Kel : Akil Munawwar (Ketua)\\Chevin Febrianta Ginting\\Echa Dwiifanka\\Faris Muhammad Ihsan\\Siti Nurhayati Puja Kesuma\\Sarwijianto}
+\maketitle
+
+\part{KTP}
+\section{Pengertian KTP}
+Kartu Tanda Penduduk (KTP) adalah identitas resmi Penduduk sebagai bukti diri yang diterbitkan oleh Instansi Pelaksana yang berlaku di seluruh wilayah Negara Kesatuan Republik Indonesia. Kartu ini wajib dimiliki Warga Negara Indonesia (WNI) dan Warga Negara Asing (WNA) yang memiliki Izin Tinggal Tetap (ITAP) yang sudah berumur 17 tahun atau sudah pernah kawin atau telah kawin.
+\section{Proses Bisnis KTP}
+\begin{enumerate}
+\item Mengambil surat pengantar dari RT/RW
+\item Isi surat pengantar
+\item Petugas kelurahan mengecek kelengkapan berkas
+\item Petugas mencatat dalam Buku Harian Peristiwa Penting
+\item Lurah menandatangani formulir
+\item Petugas menyerahkan formulir ke kecamatan
+\item Petugas kecamatan menerima dan meneliti berkas
+\item Petugas pendaftaran penduduk tingkat kecamatan menerbitkan KTP
+\item Camat menandatangani formulir permohonan KTP
+\item SP diberikan kepada instansi pelaksana
+\item Petugas instansi pelaksana melakukan verifikasi dan validasi KTP
+\item Kemudian di paraf oleh Kepala Instansi Pelaksana
+\item Cetak KTP
+\item KTP telah jadi dan diterima pemohon
+\end{enumerate}
+
+\newpage
+\section {Analisis}
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+NIK & Nama & Tempat Lahir & Tanggal lahir\\
+\hline
+int(pk) & char & char & date\\
+\hline
+\end{tabular}
+\caption{Tabel Penduduk}
+\end{center}
+\end{table}
+\begin{enumerate}
+\item Primary key dari tabel diatas ialah NIK, karena NIK dari setiap penduduk pastinya berbeda dan tidak mungkin sama. Begitu juga dengan tipe data yang diberikan pada setiap atribut yang ada. Mereka diberi tipe data yang berbeda sesuai dengan kebutuhan nantinya.
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+Kode RT & Kode Kelurahan\\
+\hline
+int(pk) & int(fk)\\
+\hline
+\end{tabular}
+\caption{Tabel RT RW}
+\end{center}
+\end{table}
+\item Primary key dari Tabel RT RW adalah kode RT karena setiap kode RT berbeda di setiap daerah. Dan juga terdapat Kode Kelurahan, dimana Kode Kelurahan ini diambil nantinya dari Tabel Kelurahan yang menyebabkan Kode Kelurahan menjadi foreign key pada tabel Kode RT.
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Kode Kelurahan & Kode Kecamatan & Nama Kelurahan\\
+\hline
+int(pk) & int(fk) & char\\
+\hline
+\end{tabular}
+\caption{Tabel Kelurahan}
+\end{center}
+\end{table}
+\item Primary key dari Tabel Kelurahan adalah Kode Kelurahan karena setiap Kode Kelurahan berbeda di setiap daerah. Dan juga pada tabel ini kita bisa melihat adanya Kode Kecamatan, Kode Kecamatan itu sendiri ialah foreign key. Jadi kenapa bisa jadi foreign key karena ketika Tabel Kecamatan dan Tabel Kelurahan di relasi kan, maka akan terbentuk foreign key ke Tabel Kelurahan.
+\newpage
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Kode Kecamatan & Kode Kota & Nama Kecamatan\\
+\hline
+int(pk) & int(fk) & char\\
+\hline
+\end{tabular}
+\caption{Tabel Kecamatan}
+\end{center}
+\end{table}
+\item Pada tabel ini sama juga penjelasannya seperti di Tabel Kelurahan.
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Kode Kota & Kode Provinsi & Nama Kota\\
+\hline
+int(pk) & int(fk) & char\\
+\hline
+\end{tabular}
+\caption{Tabel Kota}
+\end{center}
+\end{table}
+\item Pada tabel ini sama juga penjelasannya seperti di Tabel Kelurahan.
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Kode Provinsi & NIK & Nama Provinsi\\
+\hline
+int(pk) & int(fk) & char\\
+\hline
+\end{tabular}
+\caption{Tabel Provinsi}
+\end{center}
+\end{table}
+\item Pada tabel Provinsi disini akan berelasi dengan Tabel Penduduk, maka dari itu pada Tabel Provinsi terdapat NIK. Dan juga karena dari Tabel RT berelasi dengan Kelurahan dengan Kecamatan dengan Kota. Maka tabel tersebut secara tidak langsung berelasi dengan tabel Penduduk namun hubungan mereka tidak nyata.
+
+\newpage
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Kode Kewarganegaraan & NIK & Kewarganegaraani\\
+\hline
+int(pk) & int(fk) & char\\
+\hline
+\end{tabular}
+\caption{Tabel Kewarganegaraani}
+\end{center}
+\end{table}
+\item Disini ada tabel kewarganegaraan. Mengapa dipisah dari tabel penduduk? karena nantinya akan terjadinya double data jika dibiarkan pada satu tabel, maka dari itu kita memisahkannya supaya entar tinggal diambil dari Kode Kewarganegaraannya saja.
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Dokumen Persyaratan & No KK\\
+\hline
+long binary & int(fk)\\
+\hline
+\end{tabular}
+\caption{Tabel Pembuat KTPi}
+\end{center}
+\end{table}
+\item Disini terdapat tabel pembuat ktp, yang mana nantinya tabel penduduk akan berelasi langsung ke tabel pembuat ktp. Karena penduduk yang nantinya akan membutuhkan pembuat KTP untuk membuat KTP nya. Dan juga di tabel nya terdapat atribut dokumen persyaratan, yaitu semua berkas persyaratan dari awal hingga akhir disimpan disitu.
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Kode Jenis Kelamin & NIK & Jenis Kelamin\\
+\hline
+int(pk) & int(fk) & char\\
+\hline
+\end{tabular}
+\caption{Tabel Jenis Kelamin}
+\end{center}
+\end{table}
+\item Kenapa jenis kelamin dipisah dan tidak digabung? Karena atribut ini bukan yang melekat pada penduduk. Karena relasi jenis kelamin dengan penduduk itu tidak nyata.
+
+\newpage
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+NIK & Foto & Tanda Tangan & Tempat Pembuatan & Tanggal Pembuatan\\
+\hline
+int(fk) & long binary & long binary & char & date\\
+\hline
+\end{tabular}
+\caption{Tabel KTP}
+\end{center}
+\end{table}
+\item Disini terdapat tabel KTP yaitu berisi semua atribut yang ada pada KTP tersebut. Jika nantinya data dari penduduk sudah valid, maka akan diletak bersamaan dengan atribut yang ada pada KTP. Jika di KTP kalian bisa melihat disebelah kanan pada foto bagian foto tersebut.
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+No KK & NIK & NIP & Tanggal Dikeluarkan & Tanda Tangan Kepala Keluarga\\
+\hline
+int(pk) & int & int & date & long binary\\
+\hline
+\end{tabular}
+\caption{Tabel Kartu Keluarga}
+\end{center}
+\end{table}
+\item Mengapa ada tabel keluarga? Padahal kan ini KTP. Alasannya ialah karena pada proses bisnis KTP, kita memerlukan KK untuk memvalidasi data kita.
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+NIP & Nama Pegawai & Tanda Tangan\\
+\hline
+int(pk) & char & long binary\\
+\hline
+\end{tabular}
+\caption{Tabel Pegawai}
+\end{center}
+\end{table}
+\item Pada tabel ini dibutuhkan nya tabel pegawai, karena tadi sempat kita lihat adanya tabel pembuat KTP. Maka pegawai lah tugasnya membuat KTP tersebut, makanya diperlukan Tabel Pegawai.
+
+\newpage
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+Kode Jabatan & NIP\\
+\hline
+int(pk) & int(fk)\\
+\hline
+\end{tabular}
+\caption{Tabel Jabatan}
+\end{center}
+\end{table}
+\item Disini juga terdapat tabel jabatan yang mana nantinya akan berelasi dengan tabel pegawai. Karena setiap pegawai pastinya akan memiliki jabatan yang berbeda-beda, makanya diperlukannya kode jabatan tersebut.
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Kode Golongan Darah & NIK & Golongan Darah\\
+\hline
+int(pk) & int(fk) & char\\
+\hline
+\end{tabular}
+\caption{Tabel Golongan Darah}
+\end{center}
+\end{table}
+\item Mengapa dipisah dari tabel penduduk? Karena golongan darah itu bukan bagian dari penduduk, tapi mereka relasi namun relasi mereka tidak nyata antar satu sama lain. Maka dari itu atribut goldar dipisah dari penduduk.
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Kode Status Keluarga & NIK & Status Keluarga\\
+\hline
+int(pk) & int(fk) & char\\
+\hline
+\end{tabular}
+\caption{Tabel Status Keluarga}
+\end{center}
+\end{table}
+\item Begitu pula dengan status keluarga, mengapa dipisah? karena itu bukan bagian dari penduduk. Tapi mereka relasi juga namun relasinya tidak nyata.
+
+\newpage
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Kode Pekerjaan & NIK & Pekerjaan\\
+\hline
+int(pk) & int(fk) & char\\
+\hline
+\end{tabular}
+\caption{Tabel Pekerjaan}
+\end{center}
+\end{table}
+\item Penjelasannya sama seperti di atas. Pekerjaan itu bukan bagian dari penduduk, namun mereka sangat berelasi dan relasi mereka tidak nyata. Oleh karena itu pekerjaan dipisah dari penduduk.
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Kode Agama & NIK & Agama\\
+\hline
+int(pk) & int(fk) & char\\
+\hline
+\end{tabular}
+\caption{Tabel Agama}
+\end{center}
+\end{table}
+\item Sama seperti penjelasan diatas, atribut agama bukan bagian dari penduduk maka dari itu mereka dipisah. Tapi mereka akan berelasi namun relasi mereka tidak nyata.
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Kode Pendidikan & NIK & Pendidikan\\
+\hline
+int(pk) & int(fk) & char\\
+\hline
+\end{tabular}
+\caption{Tabel Pendidikan}
+\end{center}
+\end{table}
+\item Sama juga dengan diatas. Pendidikan bukan bagian dari penduduk tapi mereka berelasi dan relasi mereka tidak nyata.
+\end{enumerate}
+
+\newpage
+\part{Kesimpulan}
+Ketika membuat suatu tabel diperlukannya relasi dan atribut yang sesuai dengan keperluan supaya kita bisa menghindari terjadinya redudansi.
+\end{document}

@@ -1,0 +1,325 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.9)  2 NOV 2019 23:25
+entering extended mode
+**./apex.tex
+(apex.tex
+LaTeX2e <2019-10-01>
+(ociamthesis.cls
+Document Class: ociamthesis 2010/11/22 v2.2 OCIAM thesis class
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2019/08/27 v1.4j Standard LaTeX document class
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
+sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip43
+\multirow@cntb=\count89
+\multirow@dima=\skip44
+\bigstrutjot=\dimen105
+)
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.st
+y"
+Package: caption 2019/09/01 v3.3d Customizing captions (AR)
+
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.s
+ty"
+Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen106
+\captionmargin@=\dimen107
+\captionwidth=\dimen108
+\caption@tempdima=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
+)
+\c@caption@flags=\count90
+\c@ContinuedFloat=\count91
+)
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.
+sty"
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box27
+\beforetitleunit=\skip45
+\aftertitleunit=\skip46
+\ttl@plus=\dimen113
+\ttl@minus=\dimen114
+\ttl@toksa=\toks16
+\titlewidth=\dimen115
+\titlewidthlast=\dimen116
+\titlewidthfirst=\dimen117
+)
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\charter.sty
+"
+Package: charter 2005/04/12 PSNFSS-v9.2a (P.Dyballa) 
+)
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfiles\subfiles.
+sty"
+Package: subfiles 2018/07/31 Federico Garcia, Gernot Salzer
+
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verbatim.sty
+"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks17
+\verbatim@line=\toks18
+\verbatim@in@stream=\read1
+))
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
+sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count92
+) (apex.aux (section/chapter1.aux
+
+LaTeX Warning: Label `gambar' multiply defined.
+
+
+LaTeX Warning: Label `gambar' multiply defined.
+
+
+LaTeX Warning: Label `gambar' multiply defined.
+
+
+LaTeX Warning: Label `gambar' multiply defined.
+
+
+LaTeX Warning: Label `gambar' multiply defined.
+
+))
+\openout1 = `apex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Trying to load font information for OT1+bch on input line 5
+4.
+ ("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1bch.fd"
+File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+)
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen118
+\scratchbox=\box28
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen119
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks20
+)
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\innal\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+<logo-poltekpos.png, id=1, 291.2481pt x 272.217pt>
+File: logo-poltekpos.png Graphic file (type png)
+<use logo-poltekpos.png>
+Package pdftex.def Info: logo-poltekpos.png  used on input line 65.
+(pdftex.def)             Requested size: 91.04881pt x 85.10081pt.
+ [1
+
+
+{C:/Users/innal/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo-polt
+ekpos.png>]
+\openout2 = `section/chapter1.aux'.
+
+ (section/chapter1.tex
+<apex/apex1.png, id=10, 1027.58907pt x 551.05875pt>
+File: apex/apex1.png Graphic file (type png)
+<use apex/apex1.png>
+Package pdftex.def Info: apex/apex1.png  used on input line 9.
+(pdftex.def)             Requested size: 205.51418pt x 110.2098pt.
+<apex/apex2.png, id=11, 1027.58907pt x 521.69907pt>
+File: apex/apex2.png Graphic file (type png)
+<use apex/apex2.png>
+Package pdftex.def Info: apex/apex2.png  used on input line 18.
+(pdftex.def)             Requested size: 205.51418pt x 104.33795pt.
+<apex/apex3.png, id=12, 1027.58907pt x 523.9575pt>
+File: apex/apex3.png Graphic file (type png)
+<use apex/apex3.png>
+Package pdftex.def Info: apex/apex3.png  used on input line 40.
+(pdftex.def)             Requested size: 205.51418pt x 104.78964pt.
+<apex/apex4.png, id=13, 632.3625pt x 294.34969pt>
+File: apex/apex4.png Graphic file (type png)
+<use apex/apex4.png>
+Package pdftex.def Info: apex/apex4.png  used on input line 50.
+(pdftex.def)             Requested size: 252.94052pt x 117.73778pt.
+<apex/apex5.jpeg, id=14, 641.39626pt x 490.83376pt>
+File: apex/apex5.jpeg Graphic file (type jpg)
+<use apex/apex5.jpeg>
+Package pdftex.def Info: apex/apex5.jpeg  used on input line 60.
+(pdftex.def)             Requested size: 320.69734pt x 245.41628pt.
+<apex/apex6.png, id=15, 1027.58907pt x 524.71031pt>
+File: apex/apex6.png Graphic file (type png)
+<use apex/apex6.png>
+Package pdftex.def Info: apex/apex6.png  used on input line 81.
+(pdftex.def)             Requested size: 411.02835pt x 209.8804pt.
+<apex/apex7.png, id=16, 1027.58907pt x 524.71031pt>
+File: apex/apex7.png Graphic file (type png)
+<use apex/apex7.png>
+Package pdftex.def Info: apex/apex7.png  used on input line 91.
+(pdftex.def)             Requested size: 205.51418pt x 104.9402pt.
+<apex/apex9.png, id=17, 1027.58907pt x 523.9575pt>
+File: apex/apex9.png Graphic file (type png)
+<use apex/apex9.png>
+Package pdftex.def Info: apex/apex9.png  used on input line 118.
+(pdftex.def)             Requested size: 411.02835pt x 209.57928pt.
+) [2
+
+
+
+ <./apex/apex1.png>] [3 <./apex/apex2.png> <./apex/apex3.png> <./apex/apex4.png
+>] [4 <./apex/apex5.jpeg> <./apex/apex6.png>] [5 <./apex/apex7.png> <./apex/ape
+x9.png>] (apex.aux
+(section/chapter1.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3970 strings out of 492452
+ 59505 string characters out of 3120064
+ 129602 words of memory out of 3000000
+ 8277 multiletter control sequences out of 15000+200000
+ 16219 words of font info for 29 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,6n,43p,771b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/innal/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+}<C:/Users/innal/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/bitstrea/charter
+/bchb8a.pfb><C:/Users/innal/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/bitst
+rea/charter/bchr8a.pfb><C:/Users/innal/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/bitstrea/charter/bchri8a.pfb>
+Output written on apex.pdf (5 pages, 740731 bytes).
+PDF statistics:
+ 49 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+

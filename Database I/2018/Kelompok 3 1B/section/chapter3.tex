@@ -1,0 +1,93 @@
+\chapter{Perancangan Database}
+
+\section{Penjelasan Query}
+SQL terdiri dari 3 bahasa :
+\begin{enumerate}
+\item DDL (Data Definition Language)\\
+   DDL digunakan untuk mendefinisikan, mengubah, serta menghapus basis data dan objek-objek yang diperlukan dalam basis data, misalnya tabel, view, user, dan sebagainya.\\
+   Secara umum, DDL yang digunakan adalah CREATE untuk membuat objek baru, ALTER untuk mengubah objek yang sudah ada, dan DROP untuk menghapus objek.\\
+
+   -CREATE\\
+      CREATE DATABASE\\
+      CREATE FUNCTION\\
+      CREATE INDEX\\
+      CREATE PROCEDURE\\
+      CREATE TRIGGER\\
+      CREATE VIEW\\
+      CREATE TABLE\\
+   -RENAME\\
+      RENAME TABLE\\
+   -ALTER\\
+      ALTER DATABASE\\
+      ALTER FUNCTION\\
+      ALTER PROCEDURE\\
+      ALTER TABLE\\
+      ALTER VIEW\\
+   -DROP\\
+      DROP DATABASE\\
+      DROP FUNCTION\\
+      DROP INDEX\\
+      DROP PROCEDURE\\
+      DROP TABLE\\
+      DROP TRIGGER\\
+      DROP VIEW\\
+\item DML (Data Manipulation Language)\\
+   Bahasa basis data yang berguna untuk melakukan manipulasi dan pengambilan data pada suatu basis data\\
+
+      SELECT\\
+      INSERT\\
+      UPDATE\\
+      DELETE\\
+
+\item DCL (Data Control Language)\\
+   Digunakan untuk mengontrol hak para pemakai data dengan perintah : grant, revoke\\
+
+   -GRANT\\
+      GRANT SELECT\\
+      GRANT UPDATE\\
+      GRANT INSERT\\
+      GRANT DELETE\\
+   -REVOKE\\
+      REVOKE SELECT\\
+      REVOKE DELETE\\
+      REVOKE INSERT\\
+      REVOKE UPDATE\\
+\end{enumerate}
+alter digunakan untuk merubah struktur table\\
+alter table x;\\ 
+drop foreign key FK y;\\
+statement diatas digunakan untuk menghapus/mengubah fk yg terdapat pada tabel, sehingga nanti dapat insert values yg dimasukan.\\
+keterangan : hapus/ubah FK y dari tabel x;\\
+
+   alter table formulir ktp << ini artinya merubah table formulir ktp\\
+      drop foreign key FK FORMULIR REFERENCE PROVINSI;\\
+
+statement dibawah ini untuk hapus tabel jika ada tetapi tidak akan membuat error jika tidak ada.\\
+   drop table if exists akta;  << artinya drop tabel jika tabel akta ada\\
+
+statement dibawah untuk membuat table\\
+create table x    << artinya buat table x\\
+
+query dibawah untuk memberi field atribut pada tabel.\\
+yang didalam kurung () adalah field atribut yg terdapat pada tabel.\\
+
+(                                                        <<buka
+   a x              varchar(20) not null  comment '',    <<ini artinya  buat field a x, type data varchar, length 20, tidak boleh kosong, komen.
+   b x              varchar(100) not null  comment '',   <<ini artinya  buat field b x, type data varchar, length 100, tidak boleh kosong, komen.
+   primary key (a x)                                     <<jadikan field a x sebagai primary key table x
+)                                                        <<tutup\\
+ENGINE=InnoDB DEFAULT CHARSET=latin1;                    <<gunakan mesin InnoDB, default, karakter set latin1\\
+
+
+constraint bisa di definisikan bersamaan dengan CREATE TABLE atau setelah table dibuat menggunakan perintah ALTER TABLE\\
+Constraint adalah batasan yang diterapkan di table.\\
+foreign key adalah jenis dari constraint\\
+foreign Key digunakan untuk membuat relasi antartabel\\
+restrict digunakan apabila id pada table A ingin dihapus maka tidak diperbolehkan jika di table B ditemukan ID yang berelasi\\
+references menyebabkan error bila kita mendelete atau mengapdate table induk. inilah yg menyebabkan jika references pasti restrict\\
+
+alter table formulir ktp add constraint FK FORMULIR REFERENCE PROVINSI foreign key ("kode provinsi")\\
+      references provinsi ("kode provinsi") on delete restrict on update restrict;\\
+berdasarkan analisis proses bisnis dan dokumen yang kami lakukan, kami menyimpulkan ada 10 entity yang harus dibuat. Pada masing-masing entity kami menganalisis lagi berdasarkan atribut yang ada pada entity, atribut yang cocok untuk dijadikan primary key seperti yang terlihat pada gambar diatas, setelah membuat entity dan menentukan primary key, selanjutnya kita buat relasi. Dalam membuat relasi kita harus menentukan terlebih dahulu derajat kardinalitasnya, apakah hubungan antar tabel tersebut satu ke satu, satu ke banyak, banyak ke satu, atau banyak ke banyak. Setelah itu, tentukan mandatory relasi tersebut, apakah mandatory atau tidak. \\
+
+

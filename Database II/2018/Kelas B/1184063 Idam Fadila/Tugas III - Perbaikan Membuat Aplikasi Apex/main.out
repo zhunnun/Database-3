@@ -1,0 +1,11 @@
+\BOOKMARK [0][-]{chapter.1}{Cara membuat aplikasi websheet sederhana menggunakan apex}{}% 1
+\BOOKMARK [1][-]{section.1.1}{cara membuat workspace Oracle APEX}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{import table dari file excel}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{relasi antar tabel}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.3.1}{menghapus primary key default}{section.1.3}% 5
+\BOOKMARK [2][-]{subsection.1.3.2}{menambahkan primary key}{section.1.3}% 6
+\BOOKMARK [2][-]{subsection.1.3.3}{menambahkan foreign key}{section.1.3}% 7
+\BOOKMARK [1][-]{section.1.4}{membuat aplikasi websheet}{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.4.1}{menambahkan page dari tabel mahasiswa, dosen, dan matakuliah}{section.1.4}% 9
+\BOOKMARK [2][-]{subsection.1.4.2}{menambahkan page dari tabel nilai dan jadwal dengan sql query}{section.1.4}% 10
+\BOOKMARK [1][-]{section.1.5}{menjalankan aplikasi websheet}{chapter.1}% 11

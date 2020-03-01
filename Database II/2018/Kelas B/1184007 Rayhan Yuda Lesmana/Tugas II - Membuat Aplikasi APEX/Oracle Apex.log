@@ -1,0 +1,312 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.7.2)  2 NOV 2019 20:07
+entering extended mode
+**"./Oracle Apex.tex"
+("Oracle Apex.tex"
+LaTeX2e <2018-12-01>
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) ("Oracle Apex.aux")
+\openout1 = `"Oracle Apex.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box27
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks16
+)
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
+ase.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
+r.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
+keys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
+sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
+sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
+s.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
+.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex
+.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcm
+ds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
+y"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 8.
+ [1
+
+{C:/Users/USER/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Chapter 1.
+<gambar/1.png, id=7, 265.74281pt x 80.55093pt>
+File: gambar/1.png Graphic file (type png)
+<use gambar/1.png>
+Package pdftex.def Info: gambar/1.png  used on input line 18.
+(pdftex.def)             Requested size: 113.81102pt x 34.49857pt.
+<gambar/2.png, id=9, 318.43968pt x 372.64218pt>
+File: gambar/2.png Graphic file (type png)
+<use gambar/2.png>
+Package pdftex.def Info: gambar/2.png  used on input line 24.
+(pdftex.def)             Requested size: 113.81102pt x 133.17876pt.
+[1
+
+ <./gambar/1.png> <./gambar/2.png>]
+<gambar/3.png, id=16, 497.60907pt x 405.76593pt>
+File: gambar/3.png Graphic file (type png)
+<use gambar/3.png>
+Package pdftex.def Info: gambar/3.png  used on input line 31.
+(pdftex.def)             Requested size: 85.35826pt x 69.60463pt.
+<gambar/4.png, id=17, 502.12593pt x 393.72093pt>
+File: gambar/4.png Graphic file (type png)
+<use gambar/4.png>
+Package pdftex.def Info: gambar/4.png  used on input line 37.
+(pdftex.def)             Requested size: 85.35826pt x 66.92566pt.
+<gambar/5.png, id=18, 505.89pt x 402.00188pt>
+File: gambar/5.png Graphic file (type png)
+<use gambar/5.png>
+Package pdftex.def Info: gambar/5.png  used on input line 43.
+(pdftex.def)             Requested size: 113.81102pt x 90.43425pt.
+ [2 <./gambar/3.png> <./gambar/4.png> <./gambar/5.png>]
+<gambar/6.png, id=25, 506.6428pt x 374.14781pt>
+File: gambar/6.png Graphic file (type png)
+<use gambar/6.png>
+Package pdftex.def Info: gambar/6.png  used on input line 50.
+(pdftex.def)             Requested size: 113.81102pt x 84.0426pt.
+<gambar/7.png, id=26, 497.60907pt x 357.58594pt>
+File: gambar/7.png Graphic file (type png)
+<use gambar/7.png>
+Package pdftex.def Info: gambar/7.png  used on input line 57.
+(pdftex.def)             Requested size: 113.81102pt x 81.7847pt.
+<gambar/8.png, id=27, 384.6872pt x 217.5628pt>
+File: gambar/8.png Graphic file (type png)
+<use gambar/8.png>
+Package pdftex.def Info: gambar/8.png  used on input line 63.
+(pdftex.def)             Requested size: 113.81102pt x 64.36636pt.
+ [3 <./gambar/6.png> <./gambar/7.png> <./gambar/8.png>]
+<gambar/9.png, id=34, 422.32782pt x 341.02406pt>
+File: gambar/9.png Graphic file (type png)
+<use gambar/9.png>
+Package pdftex.def Info: gambar/9.png  used on input line 70.
+(pdftex.def)             Requested size: 113.81102pt x 91.9008pt.
+<gambar/10.png, id=35, 497.60907pt x 306.39468pt>
+File: gambar/10.png Graphic file (type png)
+<use gambar/10.png>
+Package pdftex.def Info: gambar/10.png  used on input line 76.
+(pdftex.def)             Requested size: 113.81102pt x 70.07657pt.
+<gambar/11.png, id=36, 295.1025pt x 279.29344pt>
+File: gambar/11.png Graphic file (type png)
+<use gambar/11.png>
+Package pdftex.def Info: gambar/11.png  used on input line 82.
+(pdftex.def)             Requested size: 113.81102pt x 107.71368pt.
+ [4 <./gambar/9.png> <./gambar/10.png> <./gambar/11.png>]
+<gambar/12.png, id=43, 111.41624pt x 103.13531pt>
+File: gambar/12.png Graphic file (type png)
+<use gambar/12.png>
+Package pdftex.def Info: gambar/12.png  used on input line 94.
+(pdftex.def)             Requested size: 113.81102pt x 105.3524pt.
+<gambar/13.png, id=44, 130.23656pt x 118.19156pt>
+File: gambar/13.png Graphic file (type png)
+<use gambar/13.png>
+Package pdftex.def Info: gambar/13.png  used on input line 100.
+(pdftex.def)             Requested size: 113.81102pt x 103.2857pt.
+ [5
+
+ <./gambar/12.png> <./gambar/13.png>]
+<gambar/14.png, id=50, 179.92218pt x 178.41656pt>
+File: gambar/14.png Graphic file (type png)
+<use gambar/14.png>
+Package pdftex.def Info: gambar/14.png  used on input line 107.
+(pdftex.def)             Requested size: 113.81102pt x 112.8631pt.
+<gambar/15.png, id=51, 964.35281pt x 413.29407pt>
+File: gambar/15.png Graphic file (type png)
+<use gambar/15.png>
+Package pdftex.def Info: gambar/15.png  used on input line 113.
+(pdftex.def)             Requested size: 113.81102pt x 48.77332pt.
+<gambar/16.png, id=52, 973.38657pt x 465.99094pt>
+File: gambar/16.png Graphic file (type png)
+<use gambar/16.png>
+Package pdftex.def Info: gambar/16.png  used on input line 119.
+(pdftex.def)             Requested size: 113.81102pt x 54.48018pt.
+ [6 <./gambar/14.png> <./gambar/15.png> <./gambar/16.png>]
+<gambar/17.png, id=60, 923.70094pt x 438.8897pt>
+File: gambar/17.png Graphic file (type png)
+<use gambar/17.png>
+Package pdftex.def Info: gambar/17.png  used on input line 126.
+(pdftex.def)             Requested size: 113.81102pt x 54.07083pt.
+<gambar/18.png, id=61, 968.86969pt x 461.47406pt>
+File: gambar/18.png Graphic file (type png)
+<use gambar/18.png>
+Package pdftex.def Info: gambar/18.png  used on input line 132.
+(pdftex.def)             Requested size: 113.81102pt x 54.2056pt.
+ [7 <./gambar/17.png> <./gambar/18.png>]
+<gambar/19.png, id=67, 593.96906pt x 469.00218pt>
+File: gambar/19.png Graphic file (type png)
+<use gambar/19.png>
+Package pdftex.def Info: gambar/19.png  used on input line 139.
+(pdftex.def)             Requested size: 113.81102pt x 89.86276pt.
+<gambar/20.png, id=68, 593.96906pt x 470.50781pt>
+File: gambar/20.png Graphic file (type png)
+<use gambar/20.png>
+Package pdftex.def Info: gambar/20.png  used on input line 147.
+(pdftex.def)             Requested size: 113.81102pt x 90.15125pt.
+<gambar/21.png, id=69, 1005.00468pt x 456.95718pt>
+File: gambar/21.png Graphic file (type png)
+<use gambar/21.png>
+Package pdftex.def Info: gambar/21.png  used on input line 153.
+(pdftex.def)             Requested size: 113.81102pt x 51.74362pt.
+ [8 <./gambar/19.png> <./gambar/20.png> <./gambar/21.png>]
+<gambar/22.png, id=76, 127.22531pt x 125.71968pt>
+File: gambar/22.png Graphic file (type png)
+<use gambar/22.png>
+Package pdftex.def Info: gambar/22.png  used on input line 160.
+(pdftex.def)             Requested size: 113.81102pt x 112.46948pt.
+<gambar/23.png, id=77, 338.01282pt x 328.97906pt>
+File: gambar/23.png Graphic file (type png)
+<use gambar/23.png>
+Package pdftex.def Info: gambar/23.png  used on input line 166.
+(pdftex.def)             Requested size: 113.81102pt x 110.76712pt.
+<gambar/24.png, id=78, 1024.57782pt x 490.08093pt>
+File: gambar/24.png Graphic file (type png)
+<use gambar/24.png>
+Package pdftex.def Info: gambar/24.png  used on input line 172.
+(pdftex.def)             Requested size: 113.81102pt x 54.43253pt.
+ [9 <./gambar/22.png> <./gambar/23.png> <./gambar/24.png>]
+Overfull \hbox (47.17949pt too wide) in paragraph at lines 177--179
+\OT1/cmr/m/n/12 Link ap-pli-ca-tion:https://apex.oracle.com/pls/apex/f?p=44841:
+1:106557126483270::::: 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--179
+
+ []
+
+[10
+
+] ("Oracle Apex.aux") ) 
+Here is how much of TeX's memory you used:
+ 1554 strings out of 492945
+ 23180 string characters out of 3126697
+ 82144 words of memory out of 3000000
+ 5446 multiletter control sequences out of 15000+200000
+ 6362 words of font info for 23 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,25p,282b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/USER/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on "Oracle Apex.pdf" (11 pages, 355551 bytes).
+PDF statistics:
+ 99 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+

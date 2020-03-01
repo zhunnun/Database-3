@@ -1,0 +1,142 @@
+\chapter{Laporan Database Membuat Aplikasi Sederhana Oracle Appex}
+\section{Create Aplication dan From A File Data Min 50 Record}
+\par
+\begin{enumerate}
+    \item Pertama kita membuka/mengunjunggi Aplikasi APEX \textit{https://apex.oracle.com/} 
+    \item Selanjutnya kita masuk pada APEX nya dengan Melakukan \textit{SIGN IN} jika tidak memiliki akun maka kita melakukan \textit{SIGN UP}.
+    \item Kemudian jika sudah masuk Aplikasi APEX  maka akan muncul seperti gambar dibawah.
+    \begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=9cm]{figures/1.PNG}
+\caption{Menu Awal}
+\label{penanda}
+\end{figure}
+    \item Kemudian kita masuk Ke \textit{APP BUILDER}.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=11cm,height=9cm]{figures/2.PNG}
+\caption{Menu APP BUILDER}
+\label{penanda}
+\end{figure}
+    \item Lalu kita Masuk ke Halaman \textbf{Create}
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=11cm,height=9cm]{figures/3.PNG}
+\caption{Menu Create}
+\label{penanda}
+\end{figure}
+    \item Jika sudah maka kita Klik \textit{From a file}
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=8cm]{figures/4.PNG}
+\caption{From a file}
+\label{penanda}
+\end{figure}
+\item Kemudian Masukkan data yang sudah dinormalisasi dalam bentuk xlsx atau csv, disini saya memasukkan data yang sudah ada pada database 1 yaitu\textit{Data Mahasiswa} 
+\item Maka akan muncul gambar seperti dibawah ini.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/5.PNG}
+\caption{Upload File Excel}
+\label{penanda}
+\end{figure}
+\item Lalu Pilih Tabel pada mana yang ingin diinputkan dengan memilih di \textbf{Select Sheet} Lalu Masukkan \textbf{Nama Table,}.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=8cm]{figures/6.PNG}
+\caption{Save Changes}
+\label{penanda}
+\end{figure}
+\item Jika Sudah tekan Configure pada bagian bawah Name table, Kemudian Save Change Seperti Gambar 1.7
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=11cm,height=7cm]{figures/7.PNG}
+\caption{Save Changes}
+\label{penanda}
+\end{figure}
+\item Tekan Load Data.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=11cm,height=8cm]{figures/8.PNG}
+\caption{load Data}
+\label{penanda}
+\end{figure} \vspace{6cm}
+\item Disini saya ada 4 rows yang artinya ada 4 record data masuk pada data tersebut.
+\item  Lakukan berulang dari tahap 5 hingga tahap 11 sesuai tabel yang diupload.
+\item  Lalu sudah setelah itu kita akan melakukan penghapusan kolom ID, ini dikarenakan ID diberikan otomatis oleh sistem apex jika di file kita tidak memiliki primary key.
+\item Masuk ke Sql Workshop dan klik object browser.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/9.png}
+\caption{Klik Object Browser}
+\label{penanda}
+\end{figure}\vspace{6cm}
+\item Selanjutnya kita klik tabel yang ingin kita drop disini, saya menggunakan tabel \textbf{MAHASISWA}, Contoh seperti gambar 1.10 dibawah ini.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/10.PNG}
+\caption{Pilih Table yang ingin di drop column nya}
+\label{penanda}
+\end{figure}
+\item Jika sudah, kita klik Drop Column lalu pilih kolom yang ingin di drop klik drop, Lalu klik finish lakukan berulang hingga semua tabel terbebas dari primary key.
+\item Setelah itu kita akan add primary key kesetiap tabel yang telah kita upload.
+\item Masuk ke sql Workshop dan klik Sql commands, Lalu ketik perintah seperti gambar dibawah ini.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/11.PNG}
+\caption{Membuat Primary key Setiap tabel}
+\label{penanda}
+\end{figure}
+\item Setelah itu kita run, tunggu hingga muncul pesan table altered.
+\item Langkah selanjutnya yaitu cara merelasikan dua tabel, yaitu kita mengketikkan query seperti gambar dibawah.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/12.PNG}
+\caption{Menambahkan Foreign key pada tabel yang berelasi}
+\label{penanda}
+\end{figure}
+\item Untuk melihat Relasi antar tabel dapat meliha pada \textbf{MODEL}
+\item Langkah selanjutnya adalah kita ke app builder lalu klik create lalu klik new application.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/13.PNG}
+\caption{Create Applications}
+\label{penanda}
+\end{figure}
+\item  Setelah itu kita add page.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/14.PNG}
+\caption{Add page}
+\label{penanda}
+\end{figure}
+\item Lalu kita pilih interactive report.
+\item Kemudian kita pilih tabel dan Beri nama.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/15.PNG}
+\caption{Beri Nama Add Page}
+\label{penanda}
+\end{figure}
+\item Ulangi Step diatas sampai semua tabel masuk.
+\item  Scroll kebawah lalu klik create application.
+\item Lalu Run application.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/16.PNG}
+\caption{run application}
+\label{penanda}
+\end{figure}
+\subsection{Website} 
+\par Masuk Link https://apex.oracle.com/pls/apex/f?p=55437:LOGIN_DESKTOP:7058701741840:::::
+username : nabillaahy@gmail.com
+pwd : nabilla1234
+
+\item Selesai.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/17.PNG}
+\caption{run application}
+\label{penanda}
+\end{figure}
+\end{enumerate}

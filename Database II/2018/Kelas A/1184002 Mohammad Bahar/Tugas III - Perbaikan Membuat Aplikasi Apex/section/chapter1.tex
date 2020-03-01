@@ -1,0 +1,203 @@
+\chapter{Membuat Aplikasi Akademik Sederhana dari Oracle APEX Online}
+\section{Membuat tabel dan data yang diperlukan yang sudah dinormalisasi  }
+\par
+\begin{enumerate}
+    \item Hal pertama yang perlu dilakukan adalah masuk ke Microsoft Excel, dan buat tabel mahasiswa, dosen, kuliah, nilai dan jadwal dan data-datanya.
+    \begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=9cm]{figures/1tabel_mahasiswa.png}
+\caption{Tabel Mahasiswa}
+\label{penanda}
+\end{figure}
+    
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=11cm,height=9cm]{figures/2tabel_dosen.png}
+\caption{Tabel Dosen}
+\label{penanda}
+\end{figure}
+    
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=11cm,height=9cm]{figures/3tabel_kuliah.png}
+\caption{Tabel Kuliah}
+\label{penanda}
+\end{figure}
+    
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=8cm]{figures/4tabel_nilai.png}
+\caption{Tabel Nilai}
+\label{penanda}
+\end{figure}
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=8cm]{figures/5tabel_jadwal.png}
+\caption{Tabel Jadwal}
+\label{penanda}
+\end{figure}
+
+\item Setelah itu, Masuk ke website Oracle Apex dan masuk ke workspace yang sudah ada. Masuk ke Appbulider.
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=8cm]{figures/1.png}
+\caption{App Builder}
+\label{penanda}
+\end{figure}
+
+\item Pilih create.
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/2.png}
+\caption{Create}
+\label{penanda}
+\end{figure}
+
+\item Selanjutnya, pilih from a file.
+
+\item Pilih Choose File dan cari file xlsx (excel) yang didalamnya ada tabel-tabel yang diperlukan.
+
+\item Selanjutnya masukkan Table Name-nya : MAHASISWA dan select sheet : Mahasiswa Lakukan load data pada tabel mahasiswa. Begitu juga dengan tabel Dosen, tabel Kuliah, tabel Nilai dan tabel Jadwal
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=11cm,height=8cm]{figures/3.png}
+\caption{Load Mahasiswa}
+\label{penanda}
+\end{figure}
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=8cm]{figures/4.png}
+\caption{Load Dosen}
+\label{penanda}
+\end{figure}
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=8cm]{figures/5.png}
+\caption{Load Kuliah}
+\label{penanda}
+\end{figure}
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=8cm]{figures/6.png}
+\caption{Load Nilai}
+\label{penanda}
+\end{figure}
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=8cm]{figures/7.png}
+\caption{Load Jadwal}
+\label{penanda}
+\end{figure}
+\vspace{19ex}
+
+\item Setelah melakukan load data pada setiap tabe, kembali ke halaman SQL Workshop
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=8cm]{figures/8.png}
+\caption{SQL Workshop}
+\label{penanda}
+\end{figure}
+
+\item Setelah itu, pilih/ klik tabel tabel tabel yang sudah di inputkan. setelah di klik pada tampilan menu sebelah kanan layar terdapat atribut tabel. Selanjutnya pada klik drop dan pilih ID.
+\\ Lakukan hal yang sama pada semua tabel.
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=11cm,height=8cm]{figures/hapusid.png}
+\caption{Hapus ID}
+\label{penanda}
+\end{figure}
+\item Setelah itu, pilih/ klik tabel Dosen pada tampilan menu sebelah kiri layar. Selanjutnya pada Kolom Constraint Type, pilih Primary Key untuk membuat primary key pada tabel Dosen. Berikutnya pada Primary Key Column 1, pilih NIK(NUMBER) untuk memilih properti tabel yang ingin dijadikan primary key, yaitu properti yang bisa menampung data yang unik.
+\\ Lakukan hal yang sama pada tabel MAHASISWA, KULIAH
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=8cm]{figures/primarykey1.png}
+\caption{Primary Key Dosen}
+\label{penanda}
+\end{figure}
+\vspace{54ex}
+\item  Jika sudah membuat primary key pada tiga tabel tersebut, selanjutnya kita akan membuat foreign key dari tabel NILAI dan JADWAL.
+
+\\
+Pada saat membuat foreign key tabel JADWAL, klik dua kali KODE dan  pada Reference Table Name, pilih tabel yang mempunyai relasi KODE dengan tabel NILAI , yaitu tabel KULIAH.
+Begitu juga NIM. Lakukan lagi hal yang sama dengan NIM, lalu pilih tabel yang mempunyai relasi NIM dengan tabel NILAI, yaitu tabel MAHASISWA.
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/foriginkey1.png}
+\caption{Foreign KODE pada tabel JADWAL}
+\label{penanda}
+\end{figure}
+
+
+\item Setelah membuat primary key dan foreign key pada pada setiap tabel, sekarang kembali ke App Builder.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/1.png}
+\caption{App Builder}
+\label{penanda}
+\end{figure}
+\item Pilih New Application.
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/2.png}
+\caption{Create Application}
+\label{penanda}
+\end{figure}
+
+\item Buat nama aplikasinya, yaitu APLIKASI AKADEMIK SEDERHANA
+\item Langkah selanjutnya adalah cara merelasikan dua tabel, yaitu kita mengketikkan query seperti gambar dibawah.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/9.png}
+\caption{Nama Aplikasi}
+\label{penanda}
+\end{figure}
+
+\item Klik Add Page, buat Page dengan nama MAHASISWA, DOSEN, KULIAH dan Dashboard. Tambah fitur fitur lainnya untuk melengkapi dan memperbanyak fitur pada aplikasi seperti Pages, dan fitur-fitur pada pages dan lain-lain.
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/10.png}
+\caption{Add Pages}
+\label{penanda}
+\end{figure}
+
+\item Setelah itu, scroll ke bawah lalu klik Create Application.
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/11.png}
+\caption{Create Application}
+\label{penanda}
+\end{figure}
+
+\vspace{19ex}
+\item Selanjutnya setelah aplikasi telah suskses dibuat, pergi ke halaman App Builder dan klik Run Application.
+
+\item Setelah itu, kita akan masuk ke halaman login aplikasi yang tadi baru dibuat. 
+\\ Masuk ke link berikut {https://apex.oracle.com/pls/apex/f?p=10498:1:713633964902922:::::
+} untuk login ke APLIKASI AKADEMIK SEDERHANA yang tadi baru dibuat. 
+\\Masukkan :
+\\ username :cridoxt@gmail.com
+\\pass : Bahar0408
+
+\item  Setelah itu add page.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=10cm,height=7cm]{figures/end.png}
+\caption{Home Page di Aplikasi}
+\label{penanda}
+\end{figure}
+\end{enumerate}
+

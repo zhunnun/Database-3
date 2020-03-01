@@ -1,0 +1,1289 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.16)  7 NOV 2019 20:47
+entering extended mode
+**./tugas3.tex
+(tugas3.tex
+LaTeX2e <2019-10-01>
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls
+"
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+x.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
+sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+s.sty"
+Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
+y"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
+phics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
+tex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (tugas3.aux)
+\openout1 = `tugas3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
+-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box27
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks18
+)
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopd
+f-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwa
+rerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.
+sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdef
+inekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
+ds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptio
+ns.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvset
+keys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexc
+mds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflua
+tex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdfte
+xcmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\GL503GE\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf
+.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+
+
+LaTeX Warning: No \author given.
+
+<gambar/1.PNG, id=1, 1100.31075pt x 650.43pt>
+File: gambar/1.PNG Graphic file (type png)
+<use gambar/1.PNG>
+Package pdftex.def Info: gambar/1.PNG  used on input line 18.
+(pdftex.def)             Requested size: 550.15402pt x 325.2142pt.
+
+Overfull \hbox (205.15402pt too wide) in paragraph at lines 18--19
+ [][] 
+ []
+
+<gambar/2.PNG, id=3, 1101.51524pt x 649.82774pt>
+File: gambar/2.PNG Graphic file (type png)
+<use gambar/2.PNG>
+Package pdftex.def Info: gambar/2.PNG  used on input line 24.
+(pdftex.def)             Requested size: 550.75627pt x 324.91307pt.
+
+Overfull \hbox (205.75627pt too wide) in paragraph at lines 24--25
+ [][] 
+ []
+
+[1
+
+{C:/Users/GL503GE/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./gambar/
+1.PNG>]
+<gambar/3.PNG, id=13, 795.57225pt x 545.6385pt>
+File: gambar/3.PNG Graphic file (type png)
+<use gambar/3.PNG>
+Package pdftex.def Info: gambar/3.PNG  used on input line 30.
+(pdftex.def)             Requested size: 397.78514pt x 272.81857pt.
+
+Overfull \hbox (52.78514pt too wide) in paragraph at lines 30--31
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--47
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2 <./gambar/2.PNG>]
+<gambar/4.PNG, id=18, 796.77675pt x 546.843pt>
+File: gambar/4.PNG Graphic file (type png)
+<use gambar/4.PNG>
+Package pdftex.def Info: gambar/4.PNG  used on input line 50.
+(pdftex.def)             Requested size: 398.38739pt x 273.42082pt.
+
+Overfull \hbox (53.38739pt too wide) in paragraph at lines 50--51
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--67
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<gambar/5.PNG, id=19, 797.379pt x 545.6385pt>
+File: gambar/5.PNG Graphic file (type png)
+<use gambar/5.PNG>
+Package pdftex.def Info: gambar/5.PNG  used on input line 70.
+(pdftex.def)             Requested size: 398.68852pt x 272.81857pt.
+
+Overfull \hbox (53.68852pt too wide) in paragraph at lines 70--71
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--96
+
+ []
+
+[3 <./gambar/3.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./gambar/4.PNG>]
+<gambar/6.PNG, id=28, 1100.913pt x 645.612pt>
+File: gambar/6.PNG Graphic file (type png)
+<use gambar/6.PNG>
+Package pdftex.def Info: gambar/6.PNG  used on input line 100.
+(pdftex.def)             Requested size: 550.45515pt x 322.8052pt.
+
+Overfull \hbox (205.45515pt too wide) in paragraph at lines 100--101
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--119
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./gambar/5.PNG>]
+<gambar/7.PNG, id=33, 1102.71976pt x 648.021pt>
+File: gambar/7.PNG Graphic file (type png)
+<use gambar/7.PNG>
+Package pdftex.def Info: gambar/7.PNG  used on input line 123.
+(pdftex.def)             Requested size: 551.35854pt x 324.0097pt.
+
+Overfull \hbox (206.35854pt too wide) in paragraph at lines 123--124
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--142
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6 <./gambar/6.PNG>]
+<gambar/9.PNG, id=38, 797.98125pt x 540.21825pt>
+File: gambar/9.PNG Graphic file (type png)
+<use gambar/9.PNG>
+Package pdftex.def Info: gambar/9.PNG  used on input line 146.
+(pdftex.def)             Requested size: 398.98964pt x 270.10846pt.
+
+Overfull \hbox (53.98964pt too wide) in paragraph at lines 146--147
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--165
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./gambar/7.PNG>]
+<gambar/10.PNG, id=44, 797.379pt x 542.025pt>
+File: gambar/10.PNG Graphic file (type png)
+<use gambar/10.PNG>
+Package pdftex.def Info: gambar/10.PNG  used on input line 168.
+(pdftex.def)             Requested size: 398.68852pt x 271.01183pt.
+
+Overfull \hbox (53.68852pt too wide) in paragraph at lines 168--169
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<gambar/11.PNG, id=45, 1097.2995pt x 646.8165pt>
+File: gambar/11.PNG Graphic file (type png)
+<use gambar/11.PNG>
+Package pdftex.def Info: gambar/11.PNG  used on input line 175.
+(pdftex.def)             Requested size: 548.6484pt x 323.40746pt.
+
+Overfull \hbox (203.6484pt too wide) in paragraph at lines 175--176
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--199
+
+ []
+
+[8 <./gambar/9.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9 <./gambar/10.PNG>]
+<gambar/12.PNG, id=54, 1100.913pt x 648.021pt>
+File: gambar/12.PNG Graphic file (type png)
+<use gambar/12.PNG>
+Package pdftex.def Info: gambar/12.PNG  used on input line 202.
+(pdftex.def)             Requested size: 550.45515pt x 324.0097pt.
+
+Overfull \hbox (205.45515pt too wide) in paragraph at lines 202--203
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./gambar/11.PNG>]
+<gambar/13.PNG, id=59, 1100.31075pt x 649.2255pt>
+File: gambar/13.PNG Graphic file (type png)
+<use gambar/13.PNG>
+Package pdftex.def Info: gambar/13.PNG  used on input line 229.
+(pdftex.def)             Requested size: 550.15402pt x 324.61195pt.
+
+Overfull \hbox (205.15402pt too wide) in paragraph at lines 229--230
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--253
+
+ []
+
+[11 <./gambar/12.PNG>] [12 <./gambar/13.PNG>]
+<gambar/14.PNG, id=68, 1096.69725pt x 649.82774pt>
+File: gambar/14.PNG Graphic file (type png)
+<use gambar/14.PNG>
+Package pdftex.def Info: gambar/14.PNG  used on input line 257.
+(pdftex.def)             Requested size: 548.34729pt x 324.91307pt.
+
+Overfull \hbox (203.34729pt too wide) in paragraph at lines 257--258
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--281
+
+ []
+
+[13 <./gambar/14.PNG>]
+<gambar/15.PNG, id=74, 1099.7085pt x 650.43pt>
+File: gambar/15.PNG Graphic file (type png)
+<use gambar/15.PNG>
+Package pdftex.def Info: gambar/15.PNG  used on input line 285.
+(pdftex.def)             Requested size: 549.8529pt x 325.2142pt.
+
+Overfull \hbox (204.8529pt too wide) in paragraph at lines 285--286
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (7.72314pt too wide) in paragraph at lines 290--293
+\OT1/cmr/m/n/10 Link : https://apex.oracle.com/pls/apex/f?p=92412:1:71156711169
+2782:::::
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--293
+
+ []
+
+[14] [15 <./gambar/15.PNG>] (tugas3.aux) ) 
+Here is how much of TeX's memory you used:
+ 1578 strings out of 492452
+ 23510 string characters out of 3119129
+ 86510 words of memory out of 3000000
+ 5931 multiletter control sequences out of 15000+200000
+ 7280 words of font info for 26 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,7n,30p,275b,298s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/GL503GE/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/GL503GE/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/User
+s/GL503GE/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><C:/Users/GL503GE/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmr17.pfb>
+Output written on tugas3.pdf (15 pages, 983219 bytes).
+PDF statistics:
+ 96 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+

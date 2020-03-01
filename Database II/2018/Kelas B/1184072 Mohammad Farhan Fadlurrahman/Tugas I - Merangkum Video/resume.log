@@ -1,0 +1,219 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.23)  25 OCT 2019 09:18
+entering extended mode
+**./resume.tex
+(resume.tex
+LaTeX2e <2019-10-01>
+("D:\my stuff\MiKTektek\tex/latex/base\article.cls"
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
+("D:\my stuff\MiKTektek\tex/latex/base\size12.clo"
+File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("D:\my stuff\MiKTektek\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\my stuff\MiKTektek\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("D:\my stuff\MiKTektek\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\my stuff\MiKTektek\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("D:\my stuff\MiKTektek\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("D:\my stuff\MiKTektek\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (resume.aux)
+\openout1 = `resume.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+("D:\my stuff\MiKTektek\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box27
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+) ("D:\my stuff\MiKTektek\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("D:\my stuff\MiKTektek\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("D:\my stuff\MiKTektek\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+4.
+
+("D:\my stuff\MiKTektek\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+<pic/1.png, id=1, 1371.1225pt x 770.88pt>
+File: pic/1.png Graphic file (type png)
+<use pic/1.png>
+Package pdftex.def Info: pic/1.png  used on input line 38.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 38--39
+[] 
+ []
+
+[1
+
+{C:/Users/SAM/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<pic/2.png, id=10, 1371.1225pt x 770.88pt>
+File: pic/2.png Graphic file (type png)
+<use pic/2.png>
+Package pdftex.def Info: pic/2.png  used on input line 39.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 39--40
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+<pic/3.png, id=11, 1371.1225pt x 770.88pt>
+File: pic/3.png Graphic file (type png)
+<use pic/3.png>
+Package pdftex.def Info: pic/3.png  used on input line 41.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (359.01836pt too wide) in paragraph at lines 41--42
+[]\OT1/cmr/m/n/12 jika se-le-sai cek email yang di gu-nakan un-tuk cre-ate wok 
+space [] 
+ []
+
+[2 <./pic/1.png> <./pic/2.png>]
+<pic/4.png, id=17, 1371.1225pt x 770.88pt>
+File: pic/4.png Graphic file (type png)
+<use pic/4.png>
+Package pdftex.def Info: pic/4.png  used on input line 44.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 43--45
+[] 
+ []
+
+<pic/5.png, id=18, 1371.1225pt x 770.88pt>
+File: pic/5.png Graphic file (type png)
+<use pic/5.png>
+Package pdftex.def Info: pic/5.png  used on input line 47.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 46--48
+[] 
+ []
+
+[3 <./pic/3.png> <./pic/4.png>]
+<pic/6.png, id=24, 1371.1225pt x 770.88pt>
+File: pic/6.png Graphic file (type png)
+<use pic/6.png>
+Package pdftex.def Info: pic/6.png  used on input line 49.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 49--50
+[] 
+ []
+
+[4 <./pic/5.png> <./pic/6.png>] (resume.aux) ) 
+Here is how much of TeX's memory you used:
+ 1508 strings out of 492452
+ 21037 string characters out of 3132597
+ 86023 words of memory out of 3000000
+ 5876 multiletter control sequences out of 15000+200000
+ 5108 words of font info for 19 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,5n,30p,275b,188s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/my stuff/MiKTektek/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><D:/my stuff/MiKTektek/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb><D:/my stuff/MiKTektek/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb>
+Output written on resume.pdf (4 pages, 1085468 bytes).
+PDF statistics:
+ 40 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,3 @@
+ws 	 :ariq
+user	 :ariqrafikusumah@gmail.com
+pwd	 :ariq021336699

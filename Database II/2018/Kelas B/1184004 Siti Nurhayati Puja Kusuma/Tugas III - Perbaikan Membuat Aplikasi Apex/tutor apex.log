@@ -1,0 +1,461 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.9.18)  24 NOV 2019 19:35
+entering extended mode
+**"./tutor apex.tex"
+("tutor apex.tex"
+LaTeX2e <2018-12-01>
+(ociamthesis.cls
+Document Class: ociamthesis 2010/11/22 v2.2 OCIAM thesis class
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.
+cls"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.
+clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\gra
+phicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\key
+val.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\gra
+phics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\tri
+g.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg
+\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def
+\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.
+sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\ams
+symb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\ams
+fonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\mul
+tirow.sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip43
+\multirow@cntb=\count89
+\multirow@dima=\skip44
+\bigstrutjot=\dimen105
+)
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\capt
+ion.sty"
+Package: caption 2019/09/01 v3.3d Customizing captions (AR)
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\capt
+ion3.sty"
+Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen106
+\captionmargin@=\dimen107
+\captionwidth=\dimen108
+\caption@tempdima=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
+)
+\c@caption@flags=\count90
+\c@ContinuedFloat=\count91
+)
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\tit
+lesec.sty"
+Package: titlesec 2019/09/09 v2.12 Sectioning titles
+\ttl@box=\box27
+\beforetitleunit=\skip45
+\aftertitleunit=\skip46
+\ttl@plus=\dimen113
+\ttl@minus=\dimen114
+\ttl@toksa=\toks16
+\titlewidth=\dimen115
+\titlewidthlast=\dimen116
+\titlewidthfirst=\dimen117
+)
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\chart
+er.sty"
+Package: charter 2005/04/12 PSNFSS-v9.2a (P.Dyballa) 
+)
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfiles\sub
+files.sty"
+Package: subfiles 2018/07/31 Federico Garcia, Gernot Salzer
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verbat
+im.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks17
+\verbatim@line=\toks18
+\verbatim@in@stream=\read1
+))
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\eto
+olbox.sty"
+Package: etoolbox 2019/09/09 v2.5g e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count92
+) ("tutor apex.aux" (section/chapter1.aux) (section/chapter2.aux)
+(section/chapter3.aux) (section/chapter4.aux))
+\openout1 = `"tutor apex.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Try loading font information for OT1+bch on input line 53.
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1bc
+h.fd"
+File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+)
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\
+supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen118
+\scratchbox=\box28
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen119
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks20
+)
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\eps
+topdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\i
+nfwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grf
+ext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\k
+vdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\l
+txcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvo
+ptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\k
+vsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\e
+texcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\i
+fluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\p
+dftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Acer One 14\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\i
+fpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+<logo-poltekpos.png, id=1, 291.2481pt x 272.217pt>
+File: logo-poltekpos.png Graphic file (type png)
+<use logo-poltekpos.png>
+Package pdftex.def Info: logo-poltekpos.png  used on input line 64.
+(pdftex.def)             Requested size: 91.04881pt x 85.10081pt.
+ [1
+
+
+{C:/Users/Acer One 14/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./log
+o-poltekpos.png>]
+\openout2 = `section/chapter1.aux'.
+
+ (section/chapter1.tex
+<Apex/3.png, id=10, 542.77782pt x 459.21562pt>
+File: Apex/3.png Graphic file (type png)
+<use Apex/3.png>
+Package pdftex.def Info: Apex/3.png  used on input line 9.
+(pdftex.def)             Requested size: 108.55363pt x 91.84149pt.
+<Apex/4.png, id=11, 542.77782pt x 429.10312pt>
+File: Apex/4.png Graphic file (type png)
+<use Apex/4.png>
+Package pdftex.def Info: Apex/4.png  used on input line 15.
+(pdftex.def)             Requested size: 108.55363pt x 85.81909pt.
+<Apex/5.png, id=12, 539.01375pt x 406.51875pt>
+File: Apex/5.png Graphic file (type png)
+<use Apex/5.png>
+Package pdftex.def Info: Apex/5.png  used on input line 21.
+(pdftex.def)             Requested size: 107.80083pt x 81.3023pt.
+<Apex/6.png, id=13, 542.77782pt x 403.5075pt>
+File: Apex/6.png Graphic file (type png)
+<use Apex/6.png>
+Package pdftex.def Info: Apex/6.png  used on input line 27.
+(pdftex.def)             Requested size: 108.55363pt x 80.70006pt.
+<Apex/7.png, id=14, 542.025pt x 388.45125pt>
+File: Apex/7.png Graphic file (type png)
+<use Apex/7.png>
+Package pdftex.def Info: Apex/7.png  used on input line 33.
+(pdftex.def)             Requested size: 108.40308pt x 77.68886pt.
+ [2
+
+
+
+ <./Apex/3.png> <./Apex/4.png> <./Apex/5.png>]
+<Apex/9.png, id=21, 879.285pt x 27.10126pt>
+File: Apex/9.png Graphic file (type png)
+<use Apex/9.png>
+Package pdftex.def Info: Apex/9.png  used on input line 39.
+(pdftex.def)             Requested size: 175.85388pt x 5.42015pt.
+<Apex/10.png, id=22, 608.2725pt x 402.00188pt>
+File: Apex/10.png Graphic file (type png)
+<use Apex/10.png>
+Package pdftex.def Info: Apex/10.png  used on input line 45.
+(pdftex.def)             Requested size: 121.65234pt x 80.39894pt.
+<Apex/11.png, id=23, 540.51938pt x 342.5297pt>
+File: Apex/11.png Graphic file (type png)
+<use Apex/11.png>
+Package pdftex.def Info: Apex/11.png  used on input line 51.
+(pdftex.def)             Requested size: 108.10196pt x 68.50471pt.
+<Apex/11a.png, id=24, 1008.01593pt x 487.8225pt>
+File: Apex/11a.png Graphic file (type png)
+<use Apex/11a.png>
+Package pdftex.def Info: Apex/11a.png  used on input line 57.
+(pdftex.def)             Requested size: 201.59961pt x 97.56276pt.
+) [3 <./Apex/6.png> <./Apex/7.png> <./Apex/9.png> <./Apex/10.png> <./Apex/11.pn
+g>] [4 <./Apex/11a.png>]
+\openout2 = `section/chapter2.aux'.
+
+ (section/chapter2.tex
+<Apex/12.png, id=37, 1008.01593pt x 493.845pt>
+File: Apex/12.png Graphic file (type png)
+<use Apex/12.png>
+Package pdftex.def Info: Apex/12.png  used on input line 6.
+(pdftex.def)             Requested size: 201.59961pt x 98.76724pt.
+<Apex/13.png, id=38, 1019.30812pt x 257.46187pt>
+File: Apex/13.png Graphic file (type png)
+<use Apex/13.png>
+Package pdftex.def Info: Apex/13.png  used on input line 12.
+(pdftex.def)             Requested size: 203.858pt x 51.49146pt.
+<Apex/14.png, id=39, 1020.06094pt x 532.99126pt>
+File: Apex/14.png Graphic file (type png)
+<use Apex/14.png>
+Package pdftex.def Info: Apex/14.png  used on input line 18.
+(pdftex.def)             Requested size: 204.00858pt x 106.59636pt.
+<Apex/15.png, id=40, 978.65625pt x 472.01344pt>
+File: Apex/15.png Graphic file (type png)
+<use Apex/15.png>
+Package pdftex.def Info: Apex/15.png  used on input line 24.
+(pdftex.def)             Requested size: 195.72778pt x 94.401pt.
+<Apex/17a.png, id=41, 918.43124pt x 443.40656pt>
+File: Apex/17a.png Graphic file (type png)
+<use Apex/17a.png>
+Package pdftex.def Info: Apex/17a.png  used on input line 30.
+(pdftex.def)             Requested size: 183.68298pt x 88.67973pt.
+<Apex/17.png, id=42, 975.645pt x 469.755pt>
+File: Apex/17.png Graphic file (type png)
+<use Apex/17.png>
+Package pdftex.def Info: Apex/17.png  used on input line 36.
+(pdftex.def)             Requested size: 195.12553pt x 93.94933pt.
+ [5
+
+
+ <./Apex/12.png> <./Apex/13.png> <./Apex/14.png> <./Apex/15.png>]) [6 <./Apex/1
+7a.png> <./Apex/17.png>]
+\openout2 = `section/chapter3.aux'.
+
+ (section/chapter3.tex
+<Apex/18a.png, id=55, 1023.825pt x 469.755pt>
+File: Apex/18a.png Graphic file (type png)
+<use Apex/18a.png>
+Package pdftex.def Info: Apex/18a.png  used on input line 8.
+(pdftex.def)             Requested size: 204.76137pt x 93.94933pt.
+<Apex/19.png, id=56, 1016.29688pt x 470.50781pt>
+File: Apex/19.png Graphic file (type png)
+<use Apex/19.png>
+Package pdftex.def Info: Apex/19.png  used on input line 14.
+(pdftex.def)             Requested size: 203.25577pt x 94.09988pt.
+
+Overfull \hbox (0.31032pt too wide) in paragraph at lines 12--17
+[]\OT1/bch/m/n/12 Setelah pri-mary key "ID" su-dah di-ha-pus maka bu-at-lah pri
+-mary key baru meng-
+ []
+
+<Apex/a.png, id=57, 1023.825pt x 386.94562pt>
+File: Apex/a.png Graphic file (type png)
+<use Apex/a.png>
+Package pdftex.def Info: Apex/a.png  used on input line 20.
+(pdftex.def)             Requested size: 204.76137pt x 77.38774pt.
+) [7
+
+
+ <./Apex/18a.png> <./Apex/19.png> <./Apex/a.png>]
+\openout2 = `section/chapter4.aux'.
+
+ (section/chapter4.tex
+<Apex/21.png, id=65, 1023.825pt x 313.9228pt>
+File: Apex/21.png Graphic file (type png)
+<use Apex/21.png>
+Package pdftex.def Info: Apex/21.png  used on input line 6.
+(pdftex.def)             Requested size: 204.76137pt x 62.78345pt.
+<Apex/22.png, id=66, 1009.52156pt x 469.00218pt>
+File: Apex/22.png Graphic file (type png)
+<use Apex/22.png>
+Package pdftex.def Info: Apex/22.png  used on input line 12.
+(pdftex.def)             Requested size: 201.90073pt x 93.79877pt.
+<Apex/23.png, id=67, 974.89218pt x 350.05782pt>
+File: Apex/23.png Graphic file (type png)
+<use Apex/23.png>
+Package pdftex.def Info: Apex/23.png  used on input line 18.
+(pdftex.def)             Requested size: 194.97498pt x 70.01031pt.
+<Apex/24.png, id=68, 603.0028pt x 480.29437pt>
+File: Apex/24.png Graphic file (type png)
+<use Apex/24.png>
+Package pdftex.def Info: Apex/24.png  used on input line 24.
+(pdftex.def)             Requested size: 120.59842pt x 96.05716pt.
+<Apex/25.png, id=69, 598.48593pt x 479.54156pt>
+File: Apex/25.png Graphic file (type png)
+<use Apex/25.png>
+Package pdftex.def Info: Apex/25.png  used on input line 30.
+(pdftex.def)             Requested size: 119.69505pt x 95.9066pt.
+<Apex/27.png, id=70, 599.23875pt x 478.78876pt>
+File: Apex/27.png Graphic file (type png)
+<use Apex/27.png>
+Package pdftex.def Info: Apex/27.png  used on input line 36.
+(pdftex.def)             Requested size: 119.84563pt x 95.75604pt.
+<Apex/28.png, id=71, 600.74437pt x 478.78876pt>
+File: Apex/28.png Graphic file (type png)
+<use Apex/28.png>
+Package pdftex.def Info: Apex/28.png  used on input line 41.
+(pdftex.def)             Requested size: 120.14674pt x 95.75604pt.
+<Apex/29.png, id=72, 994.46532pt x 471.26062pt>
+File: Apex/29.png Graphic file (type png)
+<use Apex/29.png>
+Package pdftex.def Info: Apex/29.png  used on input line 47.
+(pdftex.def)             Requested size: 198.88954pt x 94.25044pt.
+
+[8
+
+
+ <./Apex/21.png> <./Apex/22.png> <./Apex/23.png> <./Apex/24.png>]
+<Apex/30.png, id=80, 1020.81375pt x 306.39468pt>
+File: Apex/30.png Graphic file (type png)
+<use Apex/30.png>
+Package pdftex.def Info: Apex/30.png  used on input line 53.
+(pdftex.def)             Requested size: 204.15913pt x 61.27785pt.
+<Apex/31.png, id=81, 358.33875pt x 347.79938pt>
+File: Apex/31.png Graphic file (type png)
+<use Apex/31.png>
+Package pdftex.def Info: Apex/31.png  used on input line 59.
+(pdftex.def)             Requested size: 71.66647pt x 69.55864pt.
+ [9 <./Apex/25.png> <./Apex/27.png> <./Apex/28.png> <./Apex/29.png> <./Apex/30.
+png>]
+<Apex/32.png, id=90, 1008.76875pt x 495.35063pt>
+File: Apex/32.png Graphic file (type png)
+<use Apex/32.png>
+Package pdftex.def Info: Apex/32.png  used on input line 65.
+(pdftex.def)             Requested size: 201.75017pt x 99.06836pt.
+
+Overfull \hbox (15.93431pt too wide) in paragraph at lines 69--73
+[]\OT1/bch/m/n/12 Userid: sit-in-pu-jake-suma@gmail.com// pas-word: PU-JAKE-SUM
+A11// Workspace:
+ []
+
+
+Overfull \hbox (155.60815pt too wide) in paragraph at lines 69--73
+\OT1/bch/m/n/12 databasedb2// Link Apli-ca-tion: https://apex.oracle.com/pls/ap
+ex/f?p=35104:6:700642050052135::NO::: 
+ []
+
+) [10 <./Apex/31.png> <./Apex/32.png>] ("tutor apex.aux" (section/chapter1.aux)
+(section/chapter2.aux) (section/chapter3.aux) (section/chapter4.aux)) ) 
+Here is how much of TeX's memory you used:
+ 3809 strings out of 492895
+ 59081 string characters out of 3120931
+ 124481 words of memory out of 3000000
+ 7633 multiletter control sequences out of 15000+200000
+ 14381 words of font info for 27 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,7n,38p,779b,299s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/User
+s/Acer One 14/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:
+/Users/Acer One 14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/bitstrea/chart
+er/bchb8a.pfb><C:/Users/Acer One 14/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/bitstrea/charter/bchr8a.pfb>
+Output written on "tutor apex.pdf" (10 pages, 787534 bytes).
+PDF statistics:
+ 105 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
+

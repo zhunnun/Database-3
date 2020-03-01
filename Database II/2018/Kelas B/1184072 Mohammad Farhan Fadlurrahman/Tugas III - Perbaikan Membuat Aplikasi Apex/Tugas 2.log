@@ -1,0 +1,398 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.23)  25 NOV 2019 02:44
+entering extended mode
+**"./Tugas 2.tex"
+("Tugas 2.tex"
+LaTeX2e <2019-10-01>
+("D:\my stuff\MiKTektek\tex/latex/base\article.cls"
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
+("D:\my stuff\MiKTektek\tex/latex/base\size12.clo"
+File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("D:\my stuff\MiKTektek\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("D:\my stuff\MiKTektek\tex/latex/base\t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("D:\my stuff\MiKTektek\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("D:\my stuff\MiKTektek\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("D:\my stuff\MiKTektek\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("D:\my stuff\MiKTektek\tex/latex/listings\listings.sty"
+("D:\my stuff\MiKTektek\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\lst@mode=\count88
+\lst@gtempboxa=\box27
+\lst@token=\toks15
+\lst@length=\count89
+\lst@currlwidth=\dimen103
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen104
+\lst@width=\dimen105
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen106
+
+("D:\my stuff\MiKTektek\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box28
+)
+("D:\my stuff\MiKTektek\tex/latex/listings\listings.cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+("D:\my stuff\MiKTektek\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\my stuff\MiKTektek\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\my stuff\MiKTektek\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("D:\my stuff\MiKTektek\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+) ("Tugas 2.aux")
+\openout1 = `"Tugas 2.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+("D:\my stuff\MiKTektek\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen109
+\scratchbox=\box29
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen110
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks17
+) ("D:\my stuff\MiKTektek\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("D:\my stuff\MiKTektek\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("D:\my stuff\MiKTektek\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("D:\my stuff\MiKTektek\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count102
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+<src/21.png, id=1, 1371.1225pt x 770.88pt>
+File: src/21.png Graphic file (type png)
+<use src/21.png>
+Package pdftex.def Info: src/21.png  used on input line 18.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 17--19
+[] 
+ []
+
+[1
+
+{C:/Users/SAM/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./src/21.png>
+]
+<src/1.png, id=12, 1371.1225pt x 770.88pt>
+File: src/1.png Graphic file (type png)
+<use src/1.png>
+Package pdftex.def Info: src/1.png  used on input line 28.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 27--29
+[] 
+ []
+
+<src/2.png, id=13, 1371.1225pt x 770.88pt>
+File: src/2.png Graphic file (type png)
+<use src/2.png>
+Package pdftex.def Info: src/2.png  used on input line 30.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 29--31
+[] 
+ []
+
+[2 <./src/1.png>]
+<src/3.png, id=18, 1371.1225pt x 770.88pt>
+File: src/3.png Graphic file (type png)
+<use src/3.png>
+Package pdftex.def Info: src/3.png  used on input line 32.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 31--33
+[] 
+ []
+
+<src/4.png, id=19, 1371.1225pt x 770.88pt>
+File: src/4.png Graphic file (type png)
+<use src/4.png>
+Package pdftex.def Info: src/4.png  used on input line 34.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 33--35
+[] 
+ []
+
+[3 <./src/2.png> <./src/3.png>]
+<src/5.png, id=25, 1371.1225pt x 770.88pt>
+File: src/5.png Graphic file (type png)
+<use src/5.png>
+Package pdftex.def Info: src/5.png  used on input line 36.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 35--37
+[] 
+ []
+
+<src/6.png, id=26, 1371.1225pt x 770.88pt>
+File: src/6.png Graphic file (type png)
+<use src/6.png>
+Package pdftex.def Info: src/6.png  used on input line 43.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 42--44
+[] 
+ []
+
+[4 <./src/4.png> <./src/5.png>]
+<src/7.png, id=32, 1371.1225pt x 770.88pt>
+File: src/7.png Graphic file (type png)
+<use src/7.png>
+Package pdftex.def Info: src/7.png  used on input line 45.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 44--46
+[] 
+ []
+
+<src/8.png, id=33, 1371.1225pt x 770.88pt>
+File: src/8.png Graphic file (type png)
+<use src/8.png>
+Package pdftex.def Info: src/8.png  used on input line 47.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 46--48
+[] 
+ []
+
+[5 <./src/6.png> <./src/7.png>]
+<src/9.png, id=39, 1371.1225pt x 770.88pt>
+File: src/9.png Graphic file (type png)
+<use src/9.png>
+Package pdftex.def Info: src/9.png  used on input line 49.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 48--50
+[] 
+ []
+
+<src/10.png, id=40, 1371.1225pt x 770.88pt>
+File: src/10.png Graphic file (type png)
+<use src/10.png>
+Package pdftex.def Info: src/10.png  used on input line 51.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 50--52
+[] 
+ []
+
+[6 <./src/8.png> <./src/9.png>]
+<src/11.png, id=46, 1371.1225pt x 770.88pt>
+File: src/11.png Graphic file (type png)
+<use src/11.png>
+Package pdftex.def Info: src/11.png  used on input line 53.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 52--54
+[] 
+ []
+
+<src/13.png, id=47, 1371.1225pt x 770.88pt>
+File: src/13.png Graphic file (type png)
+<use src/13.png>
+Package pdftex.def Info: src/13.png  used on input line 55.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 54--56
+[] 
+ []
+
+[7 <./src/10.png> <./src/11.png>]
+<src/14.png, id=54, 1371.1225pt x 770.88pt>
+File: src/14.png Graphic file (type png)
+<use src/14.png>
+Package pdftex.def Info: src/14.png  used on input line 57.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 56--58
+[] 
+ []
+
+<src/15.png, id=55, 1371.1225pt x 770.88pt>
+File: src/15.png Graphic file (type png)
+<use src/15.png>
+Package pdftex.def Info: src/15.png  used on input line 59.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 58--60
+[] 
+ []
+
+[8 <./src/13.png> <./src/14.png>]
+<src/16.png, id=61, 1371.1225pt x 770.88pt>
+File: src/16.png Graphic file (type png)
+<use src/16.png>
+Package pdftex.def Info: src/16.png  used on input line 61.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 60--62
+[] 
+ []
+
+<src/18.png, id=62, 1371.1225pt x 770.88pt>
+File: src/18.png Graphic file (type png)
+<use src/18.png>
+Package pdftex.def Info: src/18.png  used on input line 63.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 62--64
+[] 
+ []
+
+[9 <./src/15.png> <./src/16.png>]
+<src/19.png, id=68, 1371.1225pt x 770.88pt>
+File: src/19.png Graphic file (type png)
+<use src/19.png>
+Package pdftex.def Info: src/19.png  used on input line 65.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 64--66
+[] 
+ []
+
+<src/20.png, id=69, 1371.1225pt x 770.88pt>
+File: src/20.png Graphic file (type png)
+<use src/20.png>
+Package pdftex.def Info: src/20.png  used on input line 67.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (50.71461pt too wide) in paragraph at lines 66--68
+[] 
+ []
+
+[10 <./src/18.png> <./src/19.png>] [11 <./src/20.png>] ("Tugas 2.aux") ) 
+Here is how much of TeX's memory you used:
+ 3627 strings out of 492452
+ 48162 string characters out of 3132597
+ 116083 words of memory out of 3000000
+ 7958 multiletter control sequences out of 15000+200000
+ 8700 words of font info for 23 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,6n,37p,278b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Us
+ers\SAM\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk
+> <C:\Users\SAM\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecb
+x1728.pk> <C:\Users\SAM\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dp
+i600\ecrm1440.pk> <C:\Users\SAM\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknapp
+en/ec/dpi600\ecrm2074.pk>
+Output written on "Tugas 2.pdf" (11 pages, 1317182 bytes).
+PDF statistics:
+ 198 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+

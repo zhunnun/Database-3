@@ -1,0 +1,159 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage{babel}
+\usepackage{enumitem}
+\usepackage{times}
+\usepackage{graphicx}
+\usepackage{geometry}
+	\geometry{left = 4cm, top = 4cm, right = 3cm, bottom = 3cm}
+\usepackage{float}
+\usepackage{setspace}
+	\setstretch{1.5}
+\usepackage{listings}
+
+
+\begin{document}
+\title{\huge\textbf{Tugas Besar Database II \\
+Pembuatan Aplikasi catering}}
+\date{}
+
+\maketitle
+
+
+\begin{figure}[!ht]
+\begin{center}
+\includegraphics[width = 6cm, height = 6cm]{poltekpos.JPG}
+\end{center}
+\end{figure}
+
+\begin{center}
+\vspace{1cm}
+Disusun oleh :\\
+Putri Nella\\
+D4 TI 2C\\
+1.18.4.017\\
+\vspace{1cm}
+\textbf{PROGRAM DIPLOMA IV POLITEKNIK POS INDONESIA} \linebreak
+\textbf{POLITEKNIK POS INDONESIA} \linebreak
+\textbf{BANDUNG}\linebreak
+\textbf{2019}
+
+\end{center}
+
+
+\thispagestyle{empty}
+
+\include{section/chapter4}
+\section{Proses Pembuatan Table}
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/awalan.PNG}
+\end{center}
+\begin{enumerate}
+\item Sebelum membuat table yang berisi data-data,pertama-tama kita masuk ke workspace apex kita dulu.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/Login.PNG}
+\end{center}
+\item setelah klik sign in terdapat form login.masukkan nama workspace,username,dan password kita masing masing.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/home.PNG}
+\end{center}
+\item pertama kita buka sql comman pada sql workshop untuk membuat table.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/20.PNG}
+\end{center}
+\item setelah membuka sql command,selanjutanya kita akan mengcreate table costumer sesuai dengan dengan atribut ada id custumer(int),nama custumer(varchar),alamat customer(varchar),no tlp(int) yang akan dibuat dengan fungsi create.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/21.PNG}
+\end{center}
+\item setelah table customer terbentuk,selanjutnya adalah membuat table menu,dengan menggunakan fungsi create.Pada tabel menu terdapat atribut id menu,nama menu,harga menu.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/23.PNG}
+\end{center}
+\item table terakhir yang akan dibuat yaitu tabel transaksi dengan atribut id transaksi sebagai primary key.sedangkan id menu dan id customer sebagai foreign key.pada tabel transaksi terdapat atribut jumlah menu,total harga,tanggal harga,tanggal pesan,tanggal kirim,alamat tujuan.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/24.PNG}
+\end{center}
+\item setelah table customer telah terbentuk langkah selanjutnya yaitu memasukkan data menggunakan fungsi insert ke tabel customer.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/25.PNG}
+\end{center}
+\item sselanjutnya adalah memasukkan data ke table menu dengan menggunkan fungsi insert
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/26.PNG}
+\end{center}
+\item terakhir memasukkan data ke tabel transaksi dengan menggunakan fungsi insert.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/27.PNG}
+\end{center}
+\item  setelah semua tabel terbuat,dan juga telah dimasukkan datanya saran saya untuk mengecek lagi cek kembali tabel anda jika primary key hingga foreigen key telah terdapat dalam table selanjutnya yang kita buat adalah membuat trigger. penjelasan mengenai trigger, jadi trigger dalam database adalah kode prosedural yang secara otomatis dijalankan untuk menanggapi perubahan tertentu pada table tertentu atau tampilan dalam database. Idealnya, Trigger harus dipertimbangkan ketika kode ini digunakan untuk mengotomatisasi perubahan yang spesiﬁk untuk database atau pengelolaan data. Log audit adalah contoh penerapan dari Trigger. setelah mengetahui arti da fungsi trigger maka selanjutnya adalah membuat trigger pada SQL Command dengan query seperti pada gambar diatas.setelah trigger telah dibuat maka data akan secara otomatis dapat bertambah atau dapat update,delete,insert secara otomatis.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/28.PNG}
+\end{center} 
+\item setelah fungsi trigger telah berhasil dilakukan maka setelah itu, kita bisa menggunakan perintah atau query lain yaitu dengan CREATE VIEW, dimana perintah ini berfungsi menampilkan table yang isinya diambil dari tabel tabel yang sudah ada.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/29.PNG}
+\end{center} 
+\item ketika semua telah barhasil selanjutnya kita akan membuat aplikasi catering pada aplikasi apex
+\end{enumerate}
+\section{Pembuatan Aplikasi Catering}
+\begin{enumerate}
+\item langkah pertama untuk pembuatan aplikasi yaitu pada menu app builder pilih menu create.
+    \begin{center}
+    \includegraphics[width=.8\textwidth]{figure/1.PNG}
+\end{center} 
+\item setelah memilih menu create selanjutnya pilih menu new application untuk membuat aplikasi baru.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/2.PNG}
+\end{center} 
+\item selanjutnya membuat nama aplikasi pada form yang telah di tempat yang telah ditentukan.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/3.PNG}
+\end{center}
+\item setelah nama aplikasi telah dibuat,selanjutnya yaitu membuat menu pada aplikasi seperti gambar dibawa ini.disini saya memilih menu interactive menu.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/4.PNG}
+\end{center}
+\item setelah itu pilih tabel yang akan akan dimasukkan pada menu.lalu add page.ulang langkah ini sampai menu telah selesai semua.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/5.PNG}
+\end{center}
+\item setelah selesai membuat menu selanjutnya adalah membuat aplikasi yaitu klik create application sehinnga aplikasi kita akan dibuat.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/6.PNG}
+\end{center}
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/7.PNG}
+\end{center}
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/8.PNG}
+\end{center}
+\item jika telah berhasil maka aplikasi telah dibuat.selanjutnya adalah menjalankan aplikasi.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/9.PNG}
+\end{center}
+\item masukkan data anda
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/10.PNG}
+\end{center}
+\item tampilan menu utama aplikasi kita.
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/11.PNG}
+\end{center}
+untuk menguji trigger maka kita dapat mengujinya
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/12.PNG}
+\end{center}
+\item maka secara otomatis data akan mengupdate sendiri 
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/13.PNG}
+\end{center}
+\begin{center}
+    \includegraphics[width=.8\textwidth]{figure/14.PNG}
+\end{center}
+SELESAI\\
+LINK : https://apex.oracle.com/pls/apex/f?p=64897:LOGIN_DESKTOP:714946124241378::::: \\
+USERNAME : putrinella23@gmail.com \\
+PASSWORD : nella118
+\end{enumerate}
+\end{document}
+

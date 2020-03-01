@@ -1,0 +1,170 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{float}
+\usepackage{graphicx}
+
+\title{DB PRAKTIKUM APEX}
+\author{Ahmad Agung Tawakkal\\1184015\\D4 TI 2B}
+\date{November 2019}
+
+\graphicspath{{Images/}}
+
+\begin{document}
+
+\maketitle
+
+\newpage
+
+\section{Tutorial Apex}
+    \subsection{Apa yang dimaksud dengan Oracle Application Express (APEX)?}
+    \paragraph{}Oracle Application Express (APEX) adalah platform pengembangan \textit{low-code} yang memungkinkan Anda membangun aplikasi perusahaan yang dapat diskalakan dan aman, dengan fitur kelas dunia, yang dapat digunakan di mana saja.
+    \subsection{Pembuatan Akun}
+    \paragraph{}Untuk membuat akun anda dapat mengikuti langkah-langkah berikut;
+        \begin{itemize}
+            \item Buka link https://apex.oracle.com/en/
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=7cm]{Capture.PNG}}
+                    \caption{Gambar 1.0}
+                \end{figure}
+            \item Kemudian klik tombol \textit{Get Started for Free}
+            \item Pilih \textit{Request a Free Workspace} 
+                 \begin{figure}[ht]
+                    \centerline{\includegraphics[width=7cm]{Capture1.PNG}}
+                    \caption{Gambar 1.1}
+                \end{figure}
+            
+            \newpage
+            \item Isi untuk memenuhi persyaratan
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture2.PNG}}
+                    \caption{Gambar 1.2}
+                \end{figure}
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture3.PNG}}
+                    \caption{Gambar 1.3}
+                \end{figure}
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture4.PNG}}
+                    \caption{Gambar 1.4}
+                \end{figure}
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture5.PNG}}
+                    \caption{Gambar 1.5}
+                \end{figure}
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture6.PNG}}
+                    \caption{Gambar 1.6}
+                \end{figure}
+        \end{itemize}
+        
+    \newpage
+    \subsection{Membuat App Pada APEX}
+        \begin{itemize}
+            \item Masuk ke menu \textit{login} APEX 
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=3cm]{Capture7.PNG}}
+                    \caption{Gambar 2.0}
+                \end{figure}
+            \newpage
+            \item Pilih \textit{App Builder}
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture8.PNG}}
+                    \caption{Gambar 2.1}
+                \end{figure}
+            \item Kemudian pilih \textit{Create a New App} 
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture9.PNG}}
+                    \caption{Gambar 2.2}
+                \end{figure}
+            \item Pastikan anda memiliki data berbentuk CSV, pilih \textit{From a File} 
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture10.PNG}}
+                    \caption{Gambar 2.4}
+                \end{figure}
+            \newpage
+            \item Pilih file CSV
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture11.PNG}}
+                    \caption{Gambar 2.5}
+                \end{figure}
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture12.PNG}}
+                    \caption{Gambar 2.6}
+                \end{figure}
+            \item Tambahkan nama tablenya, kemudian \textit{load data}
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture13.PNG}}
+                    \caption{Gambar 2.7}
+                \end{figure}
+            \newpage
+            \item Jika selesai load data, jangan lansung diabuat aplikasinya karena kita akan menambahkan tabel lagi. Klik tanda silang pada ujung kanan atas.
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture14.PNG}}
+                    \caption{Gambar 2.8}
+                \end{figure}
+            \item Kemudian jika telah selesai menambahkan table mahasiswa,dosen,jadwal,matakuliah,dan nilai selanjutnya pilih add page serta menambahkan nama aplikasinya.
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture15.PNG}}
+                    \caption{Gambar 2.9}
+                \end{figure}
+            \item Pilih \textit{Interactive Report}
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture16.PNG}}
+                    \caption{Gambar 2.10}
+                \end{figure}
+            \newpage
+            \item Tambahkan nama report-nya, dan memilih tabel. Jika anda ingin membuat tabel lebih bagus anda dapat menambahkan icon pada table.
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture17.PNG}}
+                    \caption{Gambar 2.11}
+                \end{figure}
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=3cm]{Capture19.PNG}}
+                    \caption{Gambar 2.12}
+                \end{figure}
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture18.PNG}}
+                    \caption{Gambar 2.13}
+                \end{figure}
+            \newpage
+            \item Jika setelah ditambahkan maka akan tampil seperti gambar dibawah.
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture20.PNG}}
+                    \caption{Gambar 2.14}
+                \end{figure}
+            \item Selanjutnya anda tinggal membuat aplikasinya dengan menekan \textit{create application}
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture21.PNG}}
+                    \caption{Gambar 2.15}
+                \end{figure}
+            \item Tunggu hingga selesai pembuatan aplikasinya
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture22.PNG}}
+                    \caption{Gambar 2.16}
+                \end{figure}
+            \newpage
+            \item Pilih \textit{Run Application} 
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture23.PNG}}
+                    \caption{Gambar 2.17}
+                \end{figure}
+            \item Masukan \textit{email} dan \textit{password}
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture24.PNG}}
+                    \caption{Gambar 2.18}
+                \end{figure}
+            \item Aplikasinya telah jadi
+                \begin{figure}[ht]
+                    \centerline{\includegraphics[width=5cm]{Capture25.PNG}}
+                    \caption{Gambar 2.19}
+                \end{figure}
+        \end{itemize}
+    \subsection{Akun}
+        \begin{itemize}
+            \item \textit{Link} : https://apex.oracle.com/pls/apex/f?p=76526:LOGIN\_DESKTOP:114099522804376:::::
+            \item \textit{User} : ahmadagungt30@gmail.com
+            \item \textit{Pass} : Ahmad3010
+        \end{itemize}
+        
+        
+\end{document}

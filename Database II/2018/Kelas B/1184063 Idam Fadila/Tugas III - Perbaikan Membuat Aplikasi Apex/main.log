@@ -1,0 +1,685 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.12)  14 NOV 2019 07:16
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2019-10-01>
+(ociamthesis.cls
+Document Class: ociamthesis 2010/11/22 v2.2 OCIAM thesis class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2019/08/27 v1.4j Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
+\lst@mode=\count89
+\lst@gtempboxa=\box27
+\lst@token=\toks16
+\lst@length=\count90
+\lst@currlwidth=\dimen105
+\lst@column=\count91
+\lst@pos=\count92
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count93
+\lst@lineno=\count94
+\lst@maxwidth=\dimen108
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count95
+\lst@skipnumbers=\count96
+\lst@framebox=\box28
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count97
+\float@exts=\toks17
+\float@box=\box29
+\@float@everytoks=\toks18
+\@floatcapt=\box30
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2019/09/28 v7.00a Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen109
+\Hy@linkcounter=\count98
+\Hy@pagecounter=\count99
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2019/09/28 v7.00a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count100
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4540.
+Package hyperref Info: Link nesting OFF on input line 4545.
+Package hyperref Info: Hyper index ON on input line 4548.
+Package hyperref Info: Plain pages OFF on input line 4555.
+Package hyperref Info: Backreferencing OFF on input line 4560.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4793.
+\c@Hy@tempcnt=\count101
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5152.
+\XeTeXLinkMargin=\dimen110
+\Fld@menulength=\count102
+\Field@Width=\dimen111
+\Fld@charsize=\dimen112
+Package hyperref Info: Hyper figures OFF on input line 6423.
+Package hyperref Info: Link nesting OFF on input line 6428.
+Package hyperref Info: Hyper index ON on input line 6431.
+Package hyperref Info: backreferencing OFF on input line 6438.
+Package hyperref Info: Link coloring OFF on input line 6443.
+Package hyperref Info: Link coloring with OCG OFF on input line 6448.
+Package hyperref Info: PDF/A mode OFF on input line 6453.
+LaTeX Info: Redefining \ref on input line 6493.
+LaTeX Info: Redefining \pageref on input line 6497.
+\Hy@abspage=\count103
+\c@Item=\count104
+\c@Hfootnote=\count105
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2019/09/28 v7.00a Hyperref driver for pdfTeX
+\Fld@listcount=\count106
+\c@bookmark@seq@number=\count107
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+) (main.aux
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+
+LaTeX Warning: Label `foto21' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+ ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen113
+\scratchbox=\box31
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen114
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks20
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count114
+\AtBeginShipoutBox=\box32
+Package hyperref Info: Link coloring OFF on input line 54.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count115
+)
+LaTeX Info: Redefining \ref on input line 54.
+LaTeX Info: Redefining \pageref on input line 54.
+LaTeX Info: Redefining \nameref on input line 54.
+
+(main.out) (main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+<logo-poltekpos.png, id=47, 291.2481pt x 272.217pt>
+File: logo-poltekpos.png Graphic file (type png)
+<use logo-poltekpos.png>
+Package pdftex.def Info: logo-poltekpos.png  used on input line 56.
+(pdftex.def)             Requested size: 91.04881pt x 85.10081pt.
+ [1
+
+
+{C:/Users/gravis/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo-pol
+tekpos.png>]
+Chapter 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
+
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<figures/gambar/Screenshot (106).png, id=60, 1927.2pt x 1084.05pt>
+File: figures/gambar/Screenshot (106).png Graphic file (type png)
+<use figures/gambar/Screenshot (106).png>
+Package pdftex.def Info: figures/gambar/Screenshot (106).png  used on input lin
+e 70.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/gambar/Screenshot (108).png, id=61, 1927.2pt x 1084.05pt>
+File: figures/gambar/Screenshot (108).png Graphic file (type png)
+<use figures/gambar/Screenshot (108).png>
+Package pdftex.def Info: figures/gambar/Screenshot (108).png  used on input lin
+e 79.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [2
+
+ <./figures/gambar/Screenshot (106).png>]
+<figures/gambar/Screenshot (109).png, id=75, 1927.2pt x 1084.05pt>
+File: figures/gambar/Screenshot (109).png Graphic file (type png)
+<use figures/gambar/Screenshot (109).png>
+Package pdftex.def Info: figures/gambar/Screenshot (109).png  used on input lin
+e 88.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/gambar/Screenshot (110).png, id=76, 1927.2pt x 1084.05pt>
+File: figures/gambar/Screenshot (110).png Graphic file (type png)
+<use figures/gambar/Screenshot (110).png>
+Package pdftex.def Info: figures/gambar/Screenshot (110).png  used on input lin
+e 98.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/gambar/Screenshot (111).png, id=77, 1927.2pt x 1084.05pt>
+File: figures/gambar/Screenshot (111).png Graphic file (type png)
+<use figures/gambar/Screenshot (111).png>
+Package pdftex.def Info: figures/gambar/Screenshot (111).png  used on input lin
+e 107.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [3 <./figures/gambar/Screenshot (108).png> <./figures/gambar/Screenshot (109).
+png> <./figures/gambar/Screenshot (110).png>]
+<figures/gambar/Screenshot (112).png, id=90, 1927.2pt x 1084.05pt>
+File: figures/gambar/Screenshot (112).png Graphic file (type png)
+<use figures/gambar/Screenshot (112).png>
+Package pdftex.def Info: figures/gambar/Screenshot (112).png  used on input lin
+e 116.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/gambar/Screenshot (113).png, id=91, 1927.2pt x 1084.05pt>
+File: figures/gambar/Screenshot (113).png Graphic file (type png)
+<use figures/gambar/Screenshot (113).png>
+Package pdftex.def Info: figures/gambar/Screenshot (113).png  used on input lin
+e 117.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/gambar/Screenshot (119).png, id=92, 1927.2pt x 1084.05pt>
+File: figures/gambar/Screenshot (119).png Graphic file (type png)
+<use figures/gambar/Screenshot (119).png>
+Package pdftex.def Info: figures/gambar/Screenshot (119).png  used on input lin
+e 126.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [4 <./figures/gambar/Screenshot (111).png> <./figures/gambar/Screenshot (112).
+png> <./figures/gambar/Screenshot (113).png>]
+<figures/gambar/Screenshot (114).png, id=105, 1927.2pt x 1084.05pt>
+File: figures/gambar/Screenshot (114).png Graphic file (type png)
+<use figures/gambar/Screenshot (114).png>
+Package pdftex.def Info: figures/gambar/Screenshot (114).png  used on input lin
+e 135.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/gambar/Screenshot (115).png, id=106, 1927.2pt x 1084.05pt>
+File: figures/gambar/Screenshot (115).png Graphic file (type png)
+<use figures/gambar/Screenshot (115).png>
+Package pdftex.def Info: figures/gambar/Screenshot (115).png  used on input lin
+e 144.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [5 <./figures/gambar/Screenshot (119).png> <./figures/gambar/Screenshot (114).
+png> <./figures/gambar/Screenshot (115).png>]
+<figures/persiapan data/Screenshot (224).png, id=120, 1927.2pt x 1084.05pt>
+File: figures/persiapan data/Screenshot (224).png Graphic file (type png)
+<use figures/persiapan data/Screenshot (224).png>
+Package pdftex.def Info: figures/persiapan data/Screenshot (224).png  used on i
+nput line 156.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/persiapan data/Screenshot (225).png, id=121, 1927.2pt x 1084.05pt>
+File: figures/persiapan data/Screenshot (225).png Graphic file (type png)
+<use figures/persiapan data/Screenshot (225).png>
+Package pdftex.def Info: figures/persiapan data/Screenshot (225).png  used on i
+nput line 162.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/persiapan data/Screenshot (226).png, id=122, 1927.2pt x 1084.05pt>
+File: figures/persiapan data/Screenshot (226).png Graphic file (type png)
+<use figures/persiapan data/Screenshot (226).png>
+Package pdftex.def Info: figures/persiapan data/Screenshot (226).png  used on i
+nput line 168.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/persiapan data/Screenshot (227).png, id=123, 1927.2pt x 1084.05pt>
+File: figures/persiapan data/Screenshot (227).png Graphic file (type png)
+<use figures/persiapan data/Screenshot (227).png>
+Package pdftex.def Info: figures/persiapan data/Screenshot (227).png  used on i
+nput line 174.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+[6 <./figures/persiapan data/Screenshot (224).png> <./figures/persiapan data/Sc
+reenshot (225).png>]
+<figures/persiapan data/Screenshot (228).png, id=134, 1927.2pt x 1084.05pt>
+File: figures/persiapan data/Screenshot (228).png Graphic file (type png)
+<use figures/persiapan data/Screenshot (228).png>
+Package pdftex.def Info: figures/persiapan data/Screenshot (228).png  used on i
+nput line 180.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/persiapan data/Screenshot (229).png, id=135, 1927.2pt x 1084.05pt>
+File: figures/persiapan data/Screenshot (229).png Graphic file (type png)
+<use figures/persiapan data/Screenshot (229).png>
+Package pdftex.def Info: figures/persiapan data/Screenshot (229).png  used on i
+nput line 187.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+
+Overfull \hbox (11.70038pt too wide) in paragraph at lines 184--190
+\OT1/cmr/m/n/12 nama kolom pada tabel database nantinya, con-toh pada doku-men 
+tabel-mahasiswa
+ []
+
+
+Overfull \hbox (38.62064pt too wide) in paragraph at lines 184--190
+\OT1/cmr/m/n/12 pada kolom per-tama se-tiap baris ter-da-pat nim,mhs[]nama,mhs[
+]alamat,dan mhs[]tgllahir. 
+ []
+
+[7 <./figures/persiapan data/Screenshot (226).png> <./figures/persiapan data/Sc
+reenshot (227).png> <./figures/persiapan data/Screenshot (228).png>]
+<figures/load data csv/Screenshot (207).png, id=148, 1927.2pt x 1084.05pt>
+File: figures/load data csv/Screenshot (207).png Graphic file (type png)
+<use figures/load data csv/Screenshot (207).png>
+Package pdftex.def Info: figures/load data csv/Screenshot (207).png  used on in
+put line 194.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/load data csv/Screenshot (210).png, id=149, 1927.2pt x 1084.05pt>
+File: figures/load data csv/Screenshot (210).png Graphic file (type png)
+<use figures/load data csv/Screenshot (210).png>
+Package pdftex.def Info: figures/load data csv/Screenshot (210).png  used on in
+put line 201.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [8 <./figures/persiapan data/Screenshot (229).png> <./figures/load data csv/Sc
+reenshot (207).png>]
+<figures/load data csv/Screenshot (211).png, id=160, 1927.2pt x 1084.05pt>
+File: figures/load data csv/Screenshot (211).png Graphic file (type png)
+<use figures/load data csv/Screenshot (211).png>
+Package pdftex.def Info: figures/load data csv/Screenshot (211).png  used on in
+put line 208.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/load data csv/Screenshot (213).png, id=161, 1927.2pt x 1084.05pt>
+File: figures/load data csv/Screenshot (213).png Graphic file (type png)
+<use figures/load data csv/Screenshot (213).png>
+Package pdftex.def Info: figures/load data csv/Screenshot (213).png  used on in
+put line 215.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [9 <./figures/load data csv/Screenshot (210).png> <./figures/load data csv/Scr
+eenshot (211).png>]
+<figures/load data csv/Screenshot (214).png, id=172, 1927.2pt x 1084.05pt>
+File: figures/load data csv/Screenshot (214).png Graphic file (type png)
+<use figures/load data csv/Screenshot (214).png>
+Package pdftex.def Info: figures/load data csv/Screenshot (214).png  used on in
+put line 222.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/load data csv/Screenshot (215).png, id=173, 1927.2pt x 1084.05pt>
+File: figures/load data csv/Screenshot (215).png Graphic file (type png)
+<use figures/load data csv/Screenshot (215).png>
+Package pdftex.def Info: figures/load data csv/Screenshot (215).png  used on in
+put line 229.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [10 <./figures/load data csv/Screenshot (213).png> <./figures/load data csv/Sc
+reenshot (214).png> <./figures/load data csv/Screenshot (215).png>]
+<figures/SQL commands/Screenshot (230).png, id=186, 1927.2pt x 1084.05pt>
+File: figures/SQL commands/Screenshot (230).png Graphic file (type png)
+<use figures/SQL commands/Screenshot (230).png>
+Package pdftex.def Info: figures/SQL commands/Screenshot (230).png  used on inp
+ut line 247.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/SQL commands/Screenshot (231).png, id=187, 1927.2pt x 1084.05pt>
+File: figures/SQL commands/Screenshot (231).png Graphic file (type png)
+<use figures/SQL commands/Screenshot (231).png>
+Package pdftex.def Info: figures/SQL commands/Screenshot (231).png  used on inp
+ut line 265.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [11 <./figures/SQL commands/Screenshot (230).png>]
+<figures/SQL commands/Screenshot (232).png, id=200, 1927.2pt x 1084.05pt>
+File: figures/SQL commands/Screenshot (232).png Graphic file (type png)
+<use figures/SQL commands/Screenshot (232).png>
+Package pdftex.def Info: figures/SQL commands/Screenshot (232).png  used on inp
+ut line 290.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [12 <./figures/SQL commands/Screenshot (231).png>]
+<figures/SQL commands/Screenshot (233).png, id=208, 1927.2pt x 1084.05pt>
+File: figures/SQL commands/Screenshot (233).png Graphic file (type png)
+<use figures/SQL commands/Screenshot (233).png>
+Package pdftex.def Info: figures/SQL commands/Screenshot (233).png  used on inp
+ut line 323.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [13 <./figures/SQL commands/Screenshot (232).png>]
+<figures/create app/Screenshot (234).png, id=217, 1927.2pt x 1084.05pt>
+File: figures/create app/Screenshot (234).png Graphic file (type png)
+<use figures/create app/Screenshot (234).png>
+Package pdftex.def Info: figures/create app/Screenshot (234).png  used on input
+ line 334.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/create app/Screenshot (235).png, id=218, 1927.2pt x 1084.05pt>
+File: figures/create app/Screenshot (235).png Graphic file (type png)
+<use figures/create app/Screenshot (235).png>
+Package pdftex.def Info: figures/create app/Screenshot (235).png  used on input
+ line 341.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [14 <./figures/SQL commands/Screenshot (233).png> <./figures/create app/Screen
+shot (234).png>]
+<figures/create app/Screenshot (244).png, id=230, 1927.2pt x 1084.05pt>
+File: figures/create app/Screenshot (244).png Graphic file (type png)
+<use figures/create app/Screenshot (244).png>
+Package pdftex.def Info: figures/create app/Screenshot (244).png  used on input
+ line 348.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+
+Overfull \hbox (6.73932pt too wide) in paragraph at lines 352--353
+\OT1/cmr/m/n/12 menampilkan data berdasarkan tabel yang telah kita buat atau ju
+ga menampilkan
+ []
+
+<figures/add page/Screenshot (236).png, id=231, 1927.2pt x 1084.05pt>
+File: figures/add page/Screenshot (236).png Graphic file (type png)
+<use figures/add page/Screenshot (236).png>
+Package pdftex.def Info: figures/add page/Screenshot (236).png  used on input l
+ine 361.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+[15 <./figures/create app/Screenshot (235).png> <./figures/create app/Screensho
+t (244).png>]
+<figures/add page/Screenshot (238).png, id=244, 1927.2pt x 1084.05pt>
+File: figures/add page/Screenshot (238).png Graphic file (type png)
+<use figures/add page/Screenshot (238).png>
+Package pdftex.def Info: figures/add page/Screenshot (238).png  used on input l
+ine 368.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/add page/Screenshot (239).png, id=245, 1927.2pt x 1084.05pt>
+File: figures/add page/Screenshot (239).png Graphic file (type png)
+<use figures/add page/Screenshot (239).png>
+Package pdftex.def Info: figures/add page/Screenshot (239).png  used on input l
+ine 375.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [16 <./figures/add page/Screenshot (236).png> <./figures/add page/Screenshot (
+238).png>]
+<figures/add page/Screenshot (241).png, id=256, 1927.2pt x 1084.05pt>
+File: figures/add page/Screenshot (241).png Graphic file (type png)
+<use figures/add page/Screenshot (241).png>
+Package pdftex.def Info: figures/add page/Screenshot (241).png  used on input l
+ine 388.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [17 <./figures/add page/Screenshot (239).png> <./figures/add page/Screenshot (
+241).png>]
+<figures/add page/Screenshot (243).png, id=269, 1927.2pt x 1084.05pt>
+File: figures/add page/Screenshot (243).png Graphic file (type png)
+<use figures/add page/Screenshot (243).png>
+Package pdftex.def Info: figures/add page/Screenshot (243).png  used on input l
+ine 404.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/add page/Screenshot (246).png, id=270, 1927.2pt x 1084.05pt>
+File: figures/add page/Screenshot (246).png Graphic file (type png)
+<use figures/add page/Screenshot (246).png>
+Package pdftex.def Info: figures/add page/Screenshot (246).png  used on input l
+ine 422.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [18 <./figures/add page/Screenshot (243).png>]
+<figures/run app/Screenshot (247).png, id=280, 1927.2pt x 1084.05pt>
+File: figures/run app/Screenshot (247).png Graphic file (type png)
+<use figures/run app/Screenshot (247).png>
+Package pdftex.def Info: figures/run app/Screenshot (247).png  used on input li
+ne 434.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/run app/Screenshot (248).png, id=281, 1927.2pt x 1084.05pt>
+File: figures/run app/Screenshot (248).png Graphic file (type png)
+<use figures/run app/Screenshot (248).png>
+Package pdftex.def Info: figures/run app/Screenshot (248).png  used on input li
+ne 441.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+ [19 <./figures/add page/Screenshot (246).png> <./figures/run app/Screenshot (2
+47).png>]
+<figures/run app/Screenshot (249).png, id=294, 1927.2pt x 1084.05pt>
+File: figures/run app/Screenshot (249).png Graphic file (type png)
+<use figures/run app/Screenshot (249).png>
+Package pdftex.def Info: figures/run app/Screenshot (249).png  used on input li
+ne 448.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+<figures/run app/Screenshot (250).png, id=295, 1927.2pt x 1084.05pt>
+File: figures/run app/Screenshot (250).png Graphic file (type png)
+<use figures/run app/Screenshot (250).png>
+Package pdftex.def Info: figures/run app/Screenshot (250).png  used on input li
+ne 455.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 463.
+
+Overfull \hbox (7.44473pt too wide) in paragraph at lines 460--463
+\OT1/cmr/m/n/12 link ap-likasi : []$\OT1/cmtt/m/n/12 https : / / apex . oracle 
+. com / pls / apex / f ? p = 99828 : 6 : 1984675557292 ::
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 460--463
+
+ []
+
+[20 <./figures/run app/Screenshot (248).png> <./figures/run app/Screenshot (249
+).png> <./figures/run app/Screenshot (250).png>] [21]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 463.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 463.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 463.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 47592BC0AFE0C1ED205A160EB047EC81;919.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 463.
+ ) 
+Here is how much of TeX's memory you used:
+ 7544 strings out of 492452
+ 114829 string characters out of 3129804
+ 383543 words of memory out of 3000000
+ 11677 multiletter control sequences out of 15000+200000
+ 11272 words of font info for 42 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,7n,47p,519b,518s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (21 pages, 5638780 bytes).
+PDF statistics:
+ 359 PDF objects out of 1000 (max. 8388607)
+ 122 named destinations out of 1000 (max. 500000)
+ 289 words of extra memory for PDF output out of 10000 (max. 10000000)
+

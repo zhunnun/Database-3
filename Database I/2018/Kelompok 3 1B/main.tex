@@ -1,0 +1,58 @@
+\documentclass[12pt]{ociamthesis}  % default square logo 
+%\documentclass[12pt,beltcrest]{ociamthesis} % use old belt crest logo
+%\documentclass[12pt,shieldcrest]{ociamthesis} % use older shield crest logo
+
+%load any additional packages
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{float}
+
+%input macros (i.e. write your own macros file called mymacros.tex 
+%and uncomment the next line)
+%\include{mymacros}
+
+\title{Laporan Analisis Pembuatan Database KTP \\[1ex]  } %your thesis title,
+%note \\[1ex] is a line break in the title
+
+\author{Kelompok 3:\\[1ex] }  %your college
+\memberofgroup{
+{\normalsize Dinda Majesty (1184011)}\\
+{\normalsize Fadel Asata Zohari (1184105)}\\
+{\normalsize Jenly Ramdan (1184109)}\\
+{\normalsize Hanif Amrullah (1184020)}\\
+{\normalsize Muhammad Innal Kariem (1184036)}\\
+{\normalsize Naomi C.H Tampubolon (1184018)}
+}
+
+%\renewcommand{\submittedtext}{change the default text here if needed}
+\degree{Politeknik Pos Indonesia}     %the degree
+\degreedate{Bandung 2019}         %the degree date
+
+%end the preamble and start the document
+\begin{document}
+
+%this baselineskip gives sufficient line spacing for an examiner to easily
+%markup the thesis with comments
+\baselineskip=18pt plus1pt
+
+%set the number of sectioning levels that get number and appear in the contents
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+
+\maketitle                  % create a title page from the preamble info
+
+\begin{romanpages}          % start roman page numbering
+\tableofcontents            % generate and include a table of contents
+\listoffigures             % generate and include a list of figures
+\end{romanpages}            % end roman page numbering
+
+%now include the files of latex for each of the chapters etc
+\include{section/chapter1}
+\include{section/chapter2}
+\include{section/chapter3}
+
+%now enable appendix numbering format and include any appendices
+
+
+\end{document}
+

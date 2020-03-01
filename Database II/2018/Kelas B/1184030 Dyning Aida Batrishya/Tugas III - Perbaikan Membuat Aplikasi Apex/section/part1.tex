@@ -1,0 +1,148 @@
+\clearpage
+\setcounter{page}{1}
+\section{Pengertian oracle apex, dan Cara membuat workspace pada oracle apex.}
+\begin{document}
+Oracle Application Express (APEX) adalah platform yang berfungsi untuk membangun aplikasi yang aman, dengan fitur kelas dunia dan dapat digunakan dimana saja.Apex memiliki tiga alat utama yang digunakan di dalamnya, yakni Application Builder, SQL Qorkshop dan Utility. Berikut ini merupakan penjelasan dari ketiga alat tersebut, di antaranya yakni :
+\section{Tutorial Pembuatan Aplikasi}
+\paragraph{}
+Berikut ini merupakan tata cara pembuatan aplikasi menggunakan oracle apex, di antaranya yaitu :\\
+\begin{enumerate}
+	\item Sign in ke akun oracle apex anda melalui laman https://apex.oracle.com/pls/apex/f?p=4550:1:107486695866967::::: sehingga akan muncul tampilan seperti berikut ini :
+		\begin{figure}[H]
+		\includegraphics[width=4cm]{figures/signin.png}
+		\centering
+		\caption{Sign in}
+		\end{figure}
+	\item Setelah anda masuk ke akun apex anda, maka akan muncul tampilan seperti berikut
+		\begin{figure}[H]
+		\includegraphics[width=4cm]{figures/2.png}
+		\centering
+		\caption{Tampilan Awal}
+		\end{figure}
+	\item Setelah itu, normalisasikan data yang akan anda masukkan ke dalam apex, berikut ini merupakan data mahasiswa dengan field NIM, Nama Mahasiswa, Alamat Mahasiswa, dan Tgl lahir 
+				\begin{figure}[H]
+				\includegraphics[width=8cm]{figures/tabelmahasiswa.PNG}
+				\centering
+				\caption{Data tabel mahasiswa}
+				\end{figure}
+	\item Buat tabel dosen dengan field NIK, Nama Dosen, dan Alamat Dosen deperti berikut ini
+	            \begin{figure}[H]
+				\includegraphics[width=8cm]{figures/tabeldosen.PNG}
+				\centering
+				\caption{Data tabel dosen}
+				\end{figure}
+    \item Buat tabel nilai dengan field Kode, SKS, dan Semester seperti berikut ini
+                \begin{figure}[H]
+				\includegraphics[width=8cm]{figures/tabelkuliah.PNG}
+				\centering
+				\caption{Data tabel kuliah}
+				\end{figure}
+    \item Buat tabel nilai dengan field Kode, NIM, dan Indeks deperti berikut ini
+                \begin{figure}[H]
+				\includegraphics[width=8cm]{figures/tabelnilai.PNG}
+				\centering
+				\caption{Data tabel nilai}
+				\end{figure}
+	\item Buat tabel jadwal dengan field Kode, NIK, Waktu dan Tempat seperti berikut ini
+	            \begin{figure}[H]
+				\includegraphics[width=8cm]{figures/tabeljadwal.PNG}
+				\centering
+				\caption{Data tabel jadwal}
+				\end{figure}
+	\item Kemudian klik menu app builder pada apex, setelah itu akan muncul tampilan seperti berikut dan pilihlah 'Create'
+				\begin{figure}[H]
+				\includegraphics[width=8cm]{figures/5.png}
+				\centering
+				\caption{Tampilan App Builder}
+				\end{figure}
+	\item Setelah itu pilih add from file untuk memasukkan data yang telah tersedia sebelumnya. Pastikan anda menyimpan file excel tersebut dengan format .csv atau .xlsx
+	\item Setelah itu anda akan ditampilkan pada laman load data, anda dapat men-drag atau mengklik 'choose file' untuk memasukkan file tersebut
+				\begin{figure}[H]
+				\includegraphics[width=8cm]{figures/6.png}
+				\centering
+				\caption{Drag file yang akan diinputkan}
+				\end{figure}
+	\item Setelah file diupload, lalu klik configure untuk memastikan data. Setelah data sudah benar, kemudian klik "Save Changes". Lalu load data.
+				\begin{figure}[H]
+				\includegraphics[width=8cm]{figures/loadnpm.PNG}
+				\centering
+				\caption{Konfigurasi data}
+				\end{figure}
+	\item Setelah data di-load maka akan muncul tampilan seperti berikut :
+		        \begin{figure}[H]
+				\includegraphics[width=8cm]{figures/loadnpm.PNG}
+				\centering
+				\caption{Konfigurasi data}
+				\end{figure}
+	\item Setelah data masuk, maka akan muncul tampilan seperti berikut ini, kamudian exit terlebih dahulu, jangan langsung menekan tombol create application.
+				\begin{figure}[H]
+				\includegraphics[width=8cm]{figures/setelahload.PNG}
+				\centering
+				\caption{Data telah di-load}
+				\end{figure}
+	\item Lalu, ulangi tahapan tadi dengan memasukkan file tabeldosen,tabelkuliah, tabelnilai, dan tabeljadwal
+	\item Setelah data mahasiswa telah diload, kemudian pilih "create application". Lalu akan muncul tampilan seperti berikut
+				\begin{figure}[H]
+				\includegraphics[width=8cm]{figures/createap.png}
+				\centering
+				\caption{Tampilan setelah diload}
+				\end{figure}
+	\item Pilih Add Page, kemudian pilih Interactive Report
+		        \begin{figure}[H]
+				\includegraphics[width=8cm]{figures/addpage.png}
+				\centering
+				\caption{Penggunaan Interactive Report}
+				\end{figure}
+	\item Lalu isikan report page sesuai yang anda inginkan dengan tabel yang sesuai, lalu pilih Add Page. Seperti contoh berikut ini
+	            \begin{figure}[H]
+				\includegraphics[width=8cm]{figures/addreport.png}
+				\centering
+				\caption{Penggunaan Report Page}
+				\end{figure}
+	\item Lalu isikan Report Page sesuai yang anda inginkan, lalu masukkan tabel yang diinginkan, lalu pilig Create Application
+				\begin{figure}[H]
+				\includegraphics[width=8cm]{figures/addpage2.png}
+				\centering
+				\caption{Tampilan penambahan page}
+				\end{figure}
+	\item Create Application
+				\begin{figure}[H]
+				\includegraphics[width=8cm]{figures/setelah.png}
+				\centering
+				\caption{Tampilan setelah aplikasi dibuat}
+				\end{figure}
+	\item Lalu ke menu SQL Workshop dan pilih object browser
+	\item Pilih tabel tabel mahasiswa kemudian hapus kolom ID dengan menekan 'drop columns'. Lalu akan muncul tampilan seperti berikut.
+				\begin{figure}[H]	\includegraphics[width=8cm]{figures/datati2.png}
+				\centering
+				\caption{Menghapus kolom yang ID}
+				\end{figure}
+	Klik next, lalu finish.
+	\item Lakukan hal yang sama pada tabeldosen, tabelkuliah, tabeljadwal, tabelnilai
+	\item Pastikan menggantikan nama table yang memiliki spasi dengan digantikan menggunakan underscore.
+	\item Pada menu SQL Workshop, pilih SQL Command.
+	\item Ketikkan kode sebagai berikut untuk memberikan relasi di setiap tabelnya\\
+	Untuk menjalankan per bagian, blok bagian yang akan dijalankan terlebih dahulu, kemudian klik tombol run
+	            \begin{figure}[H]	\includegraphics[width=8cm]{figures/kode.PNG}
+				\centering
+				\caption{Kode yang diketikkan}
+				\end{figure}
+	\item Setelah itu, cek apakah setiap tabel telah memiliki primary key atau belum dengan mengetikkan sebagai berikut :\\
+                \begin{figure}[H]	\includegraphics[width=8cm]{figures/kode2.PNG}
+				\centering
+				\caption{Mengecek status tabel}
+				\end{figure}
+	\item Jalankan aplikasi yang telah dibuat sebelumnya. Maka tampilan aplikasinya akanmenjadi seperti berikut ini
+				\begin{figure}[H]
+				\includegraphics[width=8cm]{figures/aplikasi.png}
+				\centering
+				\caption{tampilan aplikasi}
+				\end{figure}
+	\item Berikut ini merupakan akun oracle apexnya :
+	\begin{enumerate}
+	    \item Workspace Name : Batris
+	    \item username : aida.batrishya@gmail.com
+	    \item password : dyning2902
+	\end{enumerate}
+\end{enumerate}
+\end{document}

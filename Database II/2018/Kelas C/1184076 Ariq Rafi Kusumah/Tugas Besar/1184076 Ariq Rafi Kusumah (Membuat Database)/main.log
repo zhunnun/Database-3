@@ -1,0 +1,256 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.13)  19 DEC 2019 07:41
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2019-10-01>
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2019/08/27 v1.4j Standard LaTeX document class
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box27
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks18
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
+ase.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
+r.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
+keys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
+sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
+sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
+s.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
+.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex
+.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcm
+ds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
+y"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 11.
+ [1
+
+{C:/Users/Asus/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Chapter 1.
+
+Overfull \hbox (17.99335pt too wide) in paragraph at lines 19--20
+\OT1/cmr/bx/n/12 https://apex.oracle.com/en/\OT1/cmr/m/n/12 , Sete-lah men-gun-
+jungi kita da-pat lo-gin ataupun
+ []
+
+<figures/1.png, id=7, 1156.32pt x 620.3175pt>
+File: figures/1.png Graphic file (type png)
+<use figures/1.png>
+Package pdftex.def Info: figures/1.png  used on input line 23.
+(pdftex.def)             Requested size: 346.89868pt x 186.09668pt.
+[1
+
+ <./figures/1.png>]
+Chapter 2.
+[2
+
+]
+Chapter 3.
+<figures/TB1.PNG, id=17, 1156.32pt x 620.3175pt>
+File: figures/TB1.PNG Graphic file (type png)
+<use figures/TB1.PNG>
+Package pdftex.def Info: figures/TB1.PNG  used on input line 50.
+(pdftex.def)             Requested size: 346.89868pt x 186.09668pt.
+[3
+
+ <./figures/TB1.PNG>]
+<figures/TR.PNG, id=22, 1156.32pt x 620.3175pt>
+File: figures/TR.PNG Graphic file (type png)
+<use figures/TR.PNG>
+Package pdftex.def Info: figures/TR.PNG  used on input line 62.
+(pdftex.def)             Requested size: 346.89868pt x 186.09668pt.
+<figures/V.PNG, id=23, 1156.32pt x 620.3175pt>
+File: figures/V.PNG Graphic file (type png)
+<use figures/V.PNG>
+Package pdftex.def Info: figures/V.PNG  used on input line 74.
+(pdftex.def)             Requested size: 346.89868pt x 186.09668pt.
+<figures/2.png, id=24, 1156.32pt x 620.3175pt>
+File: figures/2.png Graphic file (type png)
+<use figures/2.png>
+Package pdftex.def Info: figures/2.png  used on input line 84.
+(pdftex.def)             Requested size: 346.89868pt x 186.09668pt.
+ [4 <./figures/TR.PNG> <./figures/V.PNG>]
+<figures/3.png, id=30, 1156.32pt x 620.3175pt>
+File: figures/3.png Graphic file (type png)
+<use figures/3.png>
+Package pdftex.def Info: figures/3.png  used on input line 90.
+(pdftex.def)             Requested size: 346.89868pt x 186.09668pt.
+<figures/4.png, id=31, 1156.32pt x 620.3175pt>
+File: figures/4.png Graphic file (type png)
+<use figures/4.png>
+Package pdftex.def Info: figures/4.png  used on input line 96.
+(pdftex.def)             Requested size: 346.89868pt x 186.09668pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/5.png, id=32, 1156.32pt x 620.3175pt>
+File: figures/5.png Graphic file (type png)
+<use figures/5.png>
+Package pdftex.def Info: figures/5.png  used on input line 102.
+(pdftex.def)             Requested size: 346.89868pt x 186.09668pt.
+[5 <./figures/2.png> <./figures/3.png>] [6 <./figures/4.png> <./figures/5.png>]
+<figures/6.png, id=44, 1156.32pt x 620.3175pt>
+File: figures/6.png Graphic file (type png)
+<use figures/6.png>
+Package pdftex.def Info: figures/6.png  used on input line 109.
+(pdftex.def)             Requested size: 346.89868pt x 186.09668pt.
+<figures/7.png, id=45, 1156.32pt x 620.3175pt>
+File: figures/7.png Graphic file (type png)
+<use figures/7.png>
+Package pdftex.def Info: figures/7.png  used on input line 116.
+(pdftex.def)             Requested size: 346.89868pt x 186.09668pt.
+[7 <./figures/6.png> <./figures/7.png>]
+Chapter 4.
+
+Overfull \hbox (91.65024pt too wide) in paragraph at lines 133--133
+[]\OT1/cmtt/m/n/12 https://apex.oracle.com/pls/apex/f?p=109006:LOGIN_DESKTOP:70
+8770969417900:::::[] 
+ []
+
+[8
+
+] (main.aux) ) 
+Here is how much of TeX's memory you used:
+ 1562 strings out of 492452
+ 23350 string characters out of 3120530
+ 85915 words of memory out of 3000000
+ 5923 multiletter control sequences out of 15000+200000
+ 6838 words of font info for 25 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,7n,30p,458b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Asus/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Asus/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (9 pages, 982721 bytes).
+PDF statistics:
+ 69 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+

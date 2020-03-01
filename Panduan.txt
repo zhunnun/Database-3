@@ -1,0 +1,21 @@
+1. Download GIT 
+2. Instal GIT di windows 
+3. Instal SSH untuk setiap user, cukup sekali , kemudian copy key nya ke GITlab git@gitlab.com:d4ti-poltekpos/intensip-2-TugasAkhir-2019/syafrial-fachri/internship-dan-tugas-akhir-kode-dosen-sfp-2018-2019.git
+4. Masuh ke Git Bash
+5. git pull origin master
+6. git add . (copy file suluruhnya ke gitlab)
+7. git commit -m "Menambahkan Folder Mahasiswa"
+8. git push -u origin master
+9. git remote add upstream SSH
+10. git fetch upstream
+
+kalau ada bentrok push
+diperbaiki pakai
+
+git fetch origin master
+git merge origin master
+
+git fetch origin master:tmp
+git rebase tmp
+git push origin HEAD:master
+git branch -D tmp
